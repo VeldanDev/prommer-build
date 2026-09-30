@@ -1,0 +1,4184 @@
+{
+ "site": "https://prommer.net",
+ "checked_at": "2026-09-30T09:59:35+00:00",
+ "pages": 475,
+ "pages_with_issues": 224,
+ "issue_kinds": [
+  [
+   "in sitemap but redirects off-site to findmynextrace.com",
+   127
+  ],
+  [
+   "title … chars (cut off in Google)",
+   51
+  ],
+  [
+   "slow: …s",
+   36
+  ],
+  [
+   "<html lang=…> on a … page",
+   15
+  ],
+  [
+   "missing meta description",
+   3
+  ],
+  [
+   "missing og:image (bare link previews)",
+   3
+  ],
+  [
+   "duplicate title (… pages)",
+   3
+  ],
+  [
+   "canonical points to …",
+   2
+  ],
+  [
+   "missing canonical",
+   1
+  ]
+ ],
+ "results": [
+  {
+   "url": "https://prommer.net/en/tech/articles/cto-advisory-services/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [
+    "missing meta description",
+    "missing og:image (bare link previews)",
+    "canonical points to https://prommer.net/en/tech/fractional-cto/",
+    "duplicate title (3 pages)"
+   ],
+   "title": "Redirecting…",
+   "description": ""
+  },
+  {
+   "url": "https://prommer.net/en/tech/fractional-cto/",
+   "status": 200,
+   "seconds": 0.19,
+   "issues": [
+    "missing meta description",
+    "missing og:image (bare link previews)",
+    "missing canonical",
+    "duplicate title (3 pages)"
+   ],
+   "title": "Redirecting…",
+   "description": ""
+  },
+  {
+   "url": "https://prommer.net/en/tech/speaking/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [
+    "missing meta description",
+    "missing og:image (bare link previews)",
+    "canonical points to https://prommer.net/en/press/speaking/",
+    "duplicate title (3 pages)"
+   ],
+   "title": "Redirecting…",
+   "description": ""
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/herzfrequenz-zonen/",
+   "status": 200,
+   "seconds": 2.02,
+   "issues": [
+    "slow: 2.0s",
+    "<html lang=\"en\"> on a /de/ page"
+   ],
+   "title": "Herzfrequenz &amp; Zonen | Trainingsrechner",
+   "description": "Herzfrequenz-Zonen-Rechner für Training nach HF, Leistung oder Tempo."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/radfahren/",
+   "status": 200,
+   "seconds": 2.42,
+   "issues": [
+    "slow: 2.4s",
+    "<html lang=\"en\"> on a /de/ page"
+   ],
+   "title": "Radfahren | Trainingsrechner",
+   "description": "Leistung, FTP, Übersetzung und radsportspezifische Rechner."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-nuernberg-2026/tickets/",
+   "status": 200,
+   "seconds": 1.62,
+   "issues": [
+    "slow: 1.6s",
+    "title 69 chars (cut off in Google)"
+   ],
+   "title": "HYROX Nürnberg Tickets 2026: Kein Rennen bestätigt — die Alternativen",
+   "description": "HYROX Nürnberg 2026: Aktuell ist kein Rennen in Nürnberg bestätigt. Lokale HYROX-Szene, Anreise zu den nächsten deutschen Rennen, Drop-Alert für die Nürnberg-Saison 2027."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/hyrox-calculator/",
+   "status": 200,
+   "seconds": 1.55,
+   "issues": [
+    "slow: 1.5s",
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "HYROX Calculator: Run Pace &amp; Station Splits for Your Goal Time",
+   "description": "Free HYROX pace calculator. Calculate your per-kilometer running splits and station time targets based on goal time, division, and strength profile."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-lanzarote-2026/",
+   "status": 200,
+   "seconds": 3.06,
+   "issues": [
+    "slow: 3.1s",
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN Lanzarote 2026: Race Guide to the Hardest IRONMAN in the World",
+   "description": "IRONMAN Lanzarote 2026 — May 23 in Puerto del Carmen. Full course across lava fields, trade winds, 2,500m climbing. Guide to the toughest IRONMAN."
+  },
+  {
+   "url": "https://prommer.net/pl/trening/hyrox/czym-jest-hyrox/",
+   "status": 200,
+   "seconds": 1.83,
+   "issues": [
+    "slow: 1.8s",
+    "title 73 chars (cut off in Google)"
+   ],
+   "title": "Czym jest HYROX? Wyjaśnienie wyścigu fitness (ostateczny przewodnik 2026)",
+   "description": "HYROX to standardowy wyścig fitness łączący 8 km biegu z 8 funkcjonalnymi stacjami treningowymi - identycznymi na każdym wydarzeniu na całym świecie. Kompletny przewodnik: format, stacje, podziały, historia i jak się zgłosić."
+  },
+  {
+   "url": "https://prommer.net/pt/training/hyrox/treino/sao-paulo/",
+   "status": 200,
+   "seconds": 1.67,
+   "issues": [
+    "slow: 1.7s",
+    "title 71 chars (cut off in Google)"
+   ],
+   "title": "HYROX Training em São Paulo: Melhores Academias, Percursos e Comunidade",
+   "description": "Guia completo para treinar HYROX em São Paulo: academias com equipamento específico, boxes de CrossFit, percursos de corrida, comunidade fitness funcional e logística para a maior cidade da América do Sul."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/zonas-frequencia-cardiaca/",
+   "status": 200,
+   "seconds": 1.73,
+   "issues": [
+    "slow: 1.7s",
+    "<html lang=\"en\"> on a /pt/ page"
+   ],
+   "title": "Frequência cardíaca &amp; Zonas | Calculadoras de treino",
+   "description": "Calculadoras de zonas de frequência cardíaca para o treino."
+  },
+  {
+   "url": "https://prommer.net/cs/trenink/hyrox/co-je-hyrox/",
+   "status": 200,
+   "seconds": 0.77,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "Co je HYROX? Vysvětlení fitness závodu (2026 Definitivní průvodce)",
+   "description": "HYROX je standardizovaný fitness závod, který kombinuje 8 km běhu s 8 funkčními stanovišti - stejnými na všech závodech po celém světě. Kompletní průvodce: formát, stanice, rozdělení, historie a jak se přihlásit."
+  },
+  {
+   "url": "https://prommer.net/da/traening/hyrox/hvad-er-hyrox/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [
+    "<html lang=\"en\"> on a /da/ page"
+   ],
+   "title": "Hvad er HYROX? Fitnessløbet forklaret (2026 Definitive Guide)",
+   "description": "HYROX er et standardiseret fitnessløb, der kombinerer 8 km løb med 8 funktionelle træningsstationer - identisk ved alle arrangementer i hele verden. Komplet guide: format, stationer, divisioner, historie og hvordan man tilmelder sig."
+  },
+  {
+   "url": "https://prommer.net/de/tech/interim-fuehrungskraft/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [
+    "title 89 chars (cut off in Google)"
+   ],
+   "title": "Fractional CTO und CIO: Wie die technische Leitung in Teilzeit in der Praxis funktioniert",
+   "description": "Fractional CTO und CIO Hub von jemandem, der die Projekte leitet. Was ein Teilzeit-Technologiemanager tut, wann das Modell funktioniert, der Vergleich zwischen CTO, CIO und CAIO, was es kostet und wie man sich entscheidet."
+  },
+  {
+   "url": "https://prommer.net/de/tech/ki-beratung/ki-berater-gehalt/",
+   "status": 200,
+   "seconds": 0.56,
+   "issues": [
+    "title 67 chars (cut off in Google)"
+   ],
+   "title": "AI Beratergehalt: Was auf dem Markt tatsächlich gezahlt wird (2026)",
+   "description": "Echte Vergütungsdaten für AI-Berater und Führungskräfte im Strategiebereich für das Jahr 2026: MBB- und Big 4-Mitarbeiter bis hin zu Vollzeit-Chief AI Officer-Mitarbeitern sowie die Teilzeit- und Berater-Stufen, die in den öffentlich zugänglichen Daten für die meisten Kandidaten nicht sichtbar sind."
+  },
+  {
+   "url": "https://prommer.net/de/tech/ki-beratung/top-ki-beratungsfirmen/",
+   "status": 200,
+   "seconds": 1.48,
+   "issues": [
+    "title 78 chars (cut off in Google)"
+   ],
+   "title": "Die führenden AI-Beratungsunternehmen im Jahr 2026: Die Sicht eines Praktikers",
+   "description": "Ein Überblick eines Experten für CTO über den Markt für AI-Beratungsunternehmen im Jahr 2026: McKinsey, BCG, Bain, Deloitte, Accenture, die seriösen Boutique-Unternehmen und die Ein-Mann-Betriebe – welche Option passt zu welcher Unternehmensphase?"
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/radfahren/ftp-perzentil/",
+   "status": 200,
+   "seconds": 2.06,
+   "issues": [
+    "slow: 2.1s"
+   ],
+   "title": "FTP-Perzentil-Rechner | Wo stehen Sie im Vergleich?",
+   "description": "Finden Sie heraus, wo Ihre FTP im Vergleich zu Radfahrern Ihres Alters und Geschlechts steht. Perzentilvergleich basierend auf Coggan-Leistungsprofilen und Plattformdaten."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/vdot-rechner/",
+   "status": 200,
+   "seconds": 1.94,
+   "issues": [
+    "slow: 1.9s"
+   ],
+   "title": "VDOT-Rechner — Trainingstempo &amp; Wettkampfprognosen",
+   "description": "Berechne deinen VDOT aus einem Wettkampfergebnis. Personalisierte Trainingstempi für Easy, Marathon, Threshold, Intervall und Wiederholungszonen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/kreuzfahrt/",
+   "status": 200,
+   "seconds": 1.22,
+   "issues": [
+    "title 72 chars (cut off in Google)"
+   ],
+   "title": "HYROX Kreuzfahrt 2026: Fitness-Cruise im Mittelmeer — Kosten &amp; Infos",
+   "description": "Alles zur ersten HYROX Kreuzfahrt 2026 — Termine, Reiseroute, Preise, Trainingsprogramm, Elite-Rennen und Buchungsinfos für EU- und UK-Bewohner."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen-2026/",
+   "status": 200,
+   "seconds": 1.69,
+   "issues": [
+    "slow: 1.7s"
+   ],
+   "title": "HYROX 2026 Rennkalender: Alle Events Weltweit",
+   "description": "Komplette Liste aller HYROX Rennen für die Saison 2025/26 weltweit. Termine, Städte und Ticket-Informationen für Deutschland, Europa und international."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-berlin-2026/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-berlin/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-berlin-2026/tickets/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-berlin/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-dortmund-2026/",
+   "status": 200,
+   "seconds": 1.84,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "HYROX Dortmund 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Dortmund 2026 — aber die BVB-Stadt hat eine starke Fitness-Szene. Trainingsmöglichkeiten im Ruhrgebiet, Community und die nächsten HYROX-Rennen in Reichweite."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-duesseldorf-2026/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/de/rennen/hyrox/hyrox-dusseldorf/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-duesseldorf-2026/tickets/",
+   "status": 200,
+   "seconds": 1.34,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/de/rennen/hyrox/hyrox-dusseldorf/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-frankfurt-2026/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-frankfurt/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-frankfurt-2026/tickets/",
+   "status": 200,
+   "seconds": 1.81,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-frankfurt/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-hamburg-2026/",
+   "status": 200,
+   "seconds": 1.44,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-hamburg/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-hamburg-2026/tickets/",
+   "status": 200,
+   "seconds": 2.17,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-hamburg/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-hannover-2026/tickets/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [
+    "title 69 chars (cut off in Google)"
+   ],
+   "title": "HYROX Hannover Tickets 2026: Kein Rennen bestätigt — die Alternativen",
+   "description": "HYROX Hannover 2026: Aktuell ist kein Rennen in Hannover bestätigt. Lokale HYROX-Szene, Anreise zu den nächsten deutschen Rennen, Drop-Alert für die Hannover-Saison 2027."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-karlsruhe-2026/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-karlsruhe/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-karlsruhe-2026/tickets/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-karlsruhe/"
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-leipzig-2026/tickets/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [
+    "title 68 chars (cut off in Google)"
+   ],
+   "title": "HYROX Leipzig Tickets 2026: Kein Rennen bestätigt — die Alternativen",
+   "description": "HYROX Leipzig 2026: Aktuell ist kein Rennen in Leipzig bestätigt. Lokale HYROX-Szene, Anreise zu den nächsten deutschen Rennen, Drop-Alert für die Leipzig-Saison 2027."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-muenchen-2026/tickets/",
+   "status": 200,
+   "seconds": 0.98,
+   "issues": [
+    "title 68 chars (cut off in Google)"
+   ],
+   "title": "HYROX München Tickets 2026: Kein Rennen bestätigt — die Alternativen",
+   "description": "HYROX München 2026: Aktuell ist kein Rennen in München bestätigt. Lokale HYROX-Szene, Anreise zu den nächsten deutschen Rennen, Drop-Alert für die München-Saison 2027."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-stuttgart-2026/tickets/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "HYROX Stuttgart Tickets 2026: Kein Rennen bestätigt — die Alternativen",
+   "description": "HYROX Stuttgart 2026: Aktuell ist kein Rennen in Stuttgart bestätigt. Lokale HYROX-Szene, Anreise zu den nächsten deutschen Rennen, Drop-Alert für die Stuttgart-Saison 2027."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/schuhe/",
+   "status": 200,
+   "seconds": 4.19,
+   "issues": [
+    "slow: 4.2s"
+   ],
+   "title": "Beste HYROX Schuhe 2026: Kaufberatung",
+   "description": "Die besten Schuhe für HYROX finden. Expertenempfehlungen für Laufen, Sled Push und alle 8 Stationen. Guide für Damen und Herren."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/times-by-age/",
+   "status": 200,
+   "seconds": 0.61,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "HYROX-Richtwerte nach Alter und Geschlecht | Wo liegen Sie? (2026)",
+   "description": "HYROX-Zeitschnellwerte nach Altersgruppe und Geschlecht. Finden Sie Ihren Perzentilwert für die Open- und Pro-Klassen in 9 Altersgruppen von 16 bis 60+. Basierend auf über 700.000 Rennergebnissen."
+  },
+  {
+   "url": "https://prommer.net/en/press/speaking/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [
+    "title 79 chars (cut off in Google)"
+   ],
+   "title": "Speaking, Panels &amp; Conference Presence · Thomas Prommer · Former Adidas SVP",
+   "description": "Book Thomas Prommer for AI keynotes, panel discussions, and conference participation. Former Adidas SVP Engineering (1000+ team), Sweetgreen CIO. Fortune 500 experience. Request availability."
+  },
+  {
+   "url": "https://prommer.net/en/tech/ai-consulting/ai-for-small-business/",
+   "status": 200,
+   "seconds": 0.64,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "AI Consulting for Small Businesses: What Actually Moves the Needle",
+   "description": "An honest small-business read on AI consulting: the five interventions that compound for a $5M–$50M company, the six that are oversold, and how to evaluate a consultant who is right-sized for SMB economics."
+  },
+  {
+   "url": "https://prommer.net/en/tech/executive/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [
+    "title 68 chars (cut off in Google)"
+   ],
+   "title": "Technology Executive: The Role, the Market, and What the Job Demands",
+   "description": "What a technology executive actually does — capital allocation, org design, board partnership — how the market values the role, and what separates the senior engineering leader from the executive."
+  },
+  {
+   "url": "https://prommer.net/en/tech/fractional/",
+   "status": 200,
+   "seconds": 1.31,
+   "issues": [
+    "title 71 chars (cut off in Google)"
+   ],
+   "title": "Fractional CTO and CIO: How Part-Time Tech Leadership Works in Practice",
+   "description": "Fractional CTO and CIO hub from someone who runs the engagements. What a fractional technology executive does, when the model works, the CTO vs CIO vs CAIO split, what it costs, and how to choose one."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/tech-headhunters-playbook/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [
+    "title 67 chars (cut off in Google)"
+   ],
+   "title": "Tech Headhunters Playbook: How I Navigate Executive Search as a CTO",
+   "description": "A CTO's guide to working with tech headhunters. Which firms specialize in CTO and VP Engineering roles, how to evaluate recruiters, and getting on a headhunter's radar."
+  },
+  {
+   "url": "https://prommer.net/en/tech/services/expert-consultation/marketing-technology/",
+   "status": 200,
+   "seconds": 1.62,
+   "issues": [
+    "slow: 1.6s"
+   ],
+   "title": "Marketing Technology Expert Consultation | Thomas Prommer",
+   "description": "Book an expert consultation on marketing technology. Marketing automation, analytics, personalization, CDP, and SEO. Top 1% expert network contributor."
+  },
+  {
+   "url": "https://prommer.net/en/tech/sqlite-vec-vs-chromadb-pinecone/",
+   "status": 200,
+   "seconds": 0.42,
+   "issues": [
+    "title 76 chars (cut off in Google)"
+   ],
+   "title": "sqlite-vec vs ChromaDB vs Pinecone: Choosing a Vector Store for Personal RAG",
+   "description": "I shipped a personal RAG on a SQLite vector database. Here is the honest call on sqlite-vec vs ChromaDB vs Pinecone — when embedded wins and when you actually need a server."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/cycling/calories/",
+   "status": 200,
+   "seconds": 2.03,
+   "issues": [
+    "slow: 2.0s"
+   ],
+   "title": "Cycling Calorie Calculator | Calories Burned Cycling",
+   "description": "Calculate how many calories you burn cycling based on weight, duration, intensity, and elevation."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/running/",
+   "status": 200,
+   "seconds": 3.99,
+   "issues": [
+    "slow: 4.0s"
+   ],
+   "title": "Running Calculators | Free Training Tools",
+   "description": "Pace calculators, race predictors, and training tools for runners."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-abu-dhabi-2026/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-abu-dhabi/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-amsterdam-2026/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-amsterdam/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-anaheim-2026/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-anaheim/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-auckland-2026/",
+   "status": 200,
+   "seconds": 1.2,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-auckland/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-australia/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [
+    "title 75 chars (cut off in Google)"
+   ],
+   "title": "HYROX Australia 2026: Race Calendar, APAC Championship &amp; How to Qualify",
+   "description": "HYROX Australia 2026 — every race in Sydney, Brisbane, Melbourne, Perth and Gold Coast on one page. APAC Championship details, Worlds qualification path, ticket guidance and how to pick your race."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-bangkok-2026/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bangkok/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-barcelona-2026/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-barcelona/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-beijing-2026/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-beijing/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-bengaluru-2026/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bengaluru/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-berlin-2026/",
+   "status": 200,
+   "seconds": 1.3,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-berlin/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-berlin-2026/tickets/",
+   "status": 200,
+   "seconds": 0.42,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-berlin/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-bilbao-2026/",
+   "status": 200,
+   "seconds": 0.8,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bilbao/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-birmingham-2026/",
+   "status": 200,
+   "seconds": 1.53,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-birmingham/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-bordeaux-2026/",
+   "status": 200,
+   "seconds": 1.5,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bordeaux/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-boston-2026/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-boston/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-budapest-2026/",
+   "status": 200,
+   "seconds": 1.28,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-budapest/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-buenos-aires-2026/",
+   "status": 200,
+   "seconds": 0.7,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-buenos-aires/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-cancun-2026/",
+   "status": 200,
+   "seconds": 1.12,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-cancun/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-cape-town-2026/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-cape-town/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-cardiff-2026/",
+   "status": 200,
+   "seconds": 1.62,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-cardiff/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-chengdu-2026/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-chengdu/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-chiba-2026/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-chiba/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-chicago-2026/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-chicago/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-copenhagen-2026/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-copenhagen/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-dallas-2026/",
+   "status": 200,
+   "seconds": 1.83,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-dallas/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-delhi-2026/",
+   "status": 200,
+   "seconds": 1.73,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-delhi/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-denver-2026/",
+   "status": 200,
+   "seconds": 0.94,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-denver/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-dubai-2026/",
+   "status": 200,
+   "seconds": 1.03,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-dubai/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-dublin-2026/",
+   "status": 200,
+   "seconds": 0.53,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-dublin/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-dusseldorf-2026/",
+   "status": 200,
+   "seconds": 1.19,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-dusseldorf/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-frankfurt-2026/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-frankfurt/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-frankfurt-2026/tickets/",
+   "status": 200,
+   "seconds": 1.69,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-frankfurt/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-gdansk-2026/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-gdansk/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-geneva-2026/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-geneva/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-gent-2026/",
+   "status": 200,
+   "seconds": 1.69,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-gent/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-glasgow-2026/",
+   "status": 200,
+   "seconds": 1.95,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-glasgow/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-guadalajara-2026/",
+   "status": 200,
+   "seconds": 1.56,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-guadalajara/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-guadalajara-2027/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-guadalajara/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-hamburg-2026/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-hamburg/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-hamburg-2026/tickets/",
+   "status": 200,
+   "seconds": 1.51,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-hamburg/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-helsinki-2026/",
+   "status": 200,
+   "seconds": 1.28,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-helsinki/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-hong-kong-2026/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-hong-kong/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-incheon-2026/",
+   "status": 200,
+   "seconds": 1.05,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-incheon/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-istanbul-2026/",
+   "status": 200,
+   "seconds": 1.28,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-istanbul/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-jakarta-2026/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-jakarta/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-johannesburg-2026/",
+   "status": 200,
+   "seconds": 0.94,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-johannesburg/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-karlsruhe-2026/",
+   "status": 200,
+   "seconds": 1.66,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-karlsruhe/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-karlsruhe-2026/tickets/",
+   "status": 200,
+   "seconds": 0.78,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-karlsruhe/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-las-vegas-2026/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-las-vegas/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-london-2026/",
+   "status": 200,
+   "seconds": 1.27,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-london-excel/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-lyon-2026/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-lyon/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-maastricht-2026/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-maastricht/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-madrid-2026/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-madrid/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-malaga-2026/",
+   "status": 200,
+   "seconds": 1.05,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-malaga/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-malaysia-kuala-lumpur-2026/",
+   "status": 200,
+   "seconds": 1.25,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-kuala-lumpur/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-mechelen-2026/",
+   "status": 200,
+   "seconds": 1.56,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-mechelen/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-melbourne-2026/",
+   "status": 200,
+   "seconds": 1.75,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-melbourne/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-miami-2026/",
+   "status": 200,
+   "seconds": 1.78,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-miami-beach/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-milan-2026/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-milan/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-monterrey-2026/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-monterrey/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-mumbai-2026/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-mumbai/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-nashville-2026/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-nashville/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-new-york-2026/",
+   "status": 200,
+   "seconds": 0.97,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-new-york/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-nice-2026/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-nice/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-osaka-2026/",
+   "status": 200,
+   "seconds": 1.77,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-osaka/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-oslo-2026/",
+   "status": 200,
+   "seconds": 1.41,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-oslo/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-paris-2026/",
+   "status": 200,
+   "seconds": 1.45,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-paris/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-perth-2026/",
+   "status": 200,
+   "seconds": 0.55,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-perth/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-phoenix-2026/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-phoenix/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-poznan-2026/",
+   "status": 200,
+   "seconds": 1.3,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-poznan/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-puebla-2026/",
+   "status": 200,
+   "seconds": 1.19,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-puebla/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-riga-2026/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-riga/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-rimini-2026/",
+   "status": 200,
+   "seconds": 1.39,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-rimini/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-rome-2026/",
+   "status": 200,
+   "seconds": 1.05,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-rome/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-rotterdam-2026/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-rotterdam/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-salt-lake-city-2026/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-salt-lake-city/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-seoul-2026/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-seoul/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-shanghai-2026/",
+   "status": 200,
+   "seconds": 1.98,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-shanghai/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-singapore-2026/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-singapore/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-stockholm-2026/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [
+    "title 93 chars (cut off in Google)"
+   ],
+   "title": "HYROX Stockholm 2026: World Championship — Date, Venue &amp; Registration — 14 Divisions Open",
+   "description": "HYROX Stockholm 2026 — the city race runs December 10-13, and Stockholm also hosts the PUMA HYROX World Championships on June 18-21. Dates, venue, tickets, travel and training advice."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-sydney-2026/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-sydney/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-sydney-2026/spectator-guide/",
+   "status": 200,
+   "seconds": 2.67,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-sydney/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-tampa-2026/",
+   "status": 200,
+   "seconds": 0.76,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-tampa/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-tenerife-2026/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-tenerife/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-toronto-2026/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-toronto/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-toulouse-2026/",
+   "status": 200,
+   "seconds": 1.62,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-toulouse/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-utrecht-2026/",
+   "status": 200,
+   "seconds": 1.84,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-utrecht/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-valencia-2026/",
+   "status": 200,
+   "seconds": 1.56,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-valencia/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-vancouver-2026/",
+   "status": 200,
+   "seconds": 0.77,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-vancouver/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-vienna-2026/",
+   "status": 200,
+   "seconds": 1.03,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-vienna/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-warsaw-2026/",
+   "status": 200,
+   "seconds": 0.98,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-warsaw/"
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/results/",
+   "status": 200,
+   "seconds": 0.7,
+   "issues": [
+    "title 69 chars (cut off in Google)"
+   ],
+   "title": "How to Check HYROX Results: Official Site, Splits &amp; Live Tracking",
+   "description": "Where to find HYROX race results — official platform, independent aggregators, and how to look up your time, splits, and ranking by city or athlete."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/stations/",
+   "status": 200,
+   "seconds": 1.56,
+   "issues": [
+    "slow: 1.6s"
+   ],
+   "title": "HYROX Stations in Order: All 8 Stations, Weights &amp; Distances",
+   "description": "Complete reference for every HYROX station: order, distance, reps, and weights for every division — Open, Pro, Doubles, Mixed Doubles, Relay, and age groups."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tickets/",
+   "status": 200,
+   "seconds": 1.27,
+   "issues": [
+    "title 69 chars (cut off in Google)"
+   ],
+   "title": "HYROX Tickets: How Fast They Sell Out, Waitlists &amp; How to Get One",
+   "description": "Complete guide to buying HYROX tickets, joining waitlists, and securing spots when races sell out. Includes Flex ticket options and group discount info."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/times/",
+   "status": 200,
+   "seconds": 0.3,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "HYROX Times: Average, Good &amp; Elite Finish Times by Division (2026)",
+   "description": "HYROX times by division: average times, elite benchmarks, world records, and station targets for Open, Pro, Doubles, and Relay divisions."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/cape-town/",
+   "status": 200,
+   "seconds": 1.59,
+   "issues": [
+    "slow: 1.6s"
+   ],
+   "title": "HYROX Cape Town 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Cape Town 2026 race guide. CTICC venue logistics, best CrossFit boxes, Sea Point running routes, and training tips for South Africa."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/los-angeles/",
+   "status": 200,
+   "seconds": 2.11,
+   "issues": [
+    "slow: 2.1s"
+   ],
+   "title": "HYROX Training in Los Angeles: Best Gyms &amp; Classes",
+   "description": "Find the best HYROX training facilities in Los Angeles. CrossFit boxes, functional fitness gyms, and tips for race preparation in Southern California."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/mumbai/",
+   "status": 200,
+   "seconds": 2.11,
+   "issues": [
+    "slow: 2.1s"
+   ],
+   "title": "HYROX Mumbai 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Mumbai 2026 race guide. September 27-28, NESCO or Dome venue logistics, best CrossFit boxes in Bandra and Lower Parel, Marine Drive running routes, and India's financial capital training tips."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/tenerife/",
+   "status": 200,
+   "seconds": 1.86,
+   "issues": [
+    "slow: 1.9s"
+   ],
+   "title": "HYROX Tenerife 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Tenerife 2026 race guide. Pabellón Santiago Martín venue logistics, CrossFit boxes, volcanic terrain running, and training on Canary Islands."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/toulouse/",
+   "status": 200,
+   "seconds": 2.03,
+   "issues": [
+    "slow: 2.0s"
+   ],
+   "title": "HYROX Toulouse 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Toulouse 2026 race guide. Venue logistics at MEETT, best training gyms, transport tips, accommodation, and Canal du Midi running in France's Pink City."
+  },
+  {
+   "url": "https://prommer.net/en/training/injuries/broken-femur-recovery/recovery-timeline/",
+   "status": 200,
+   "seconds": 1.66,
+   "issues": [
+    "slow: 1.7s"
+   ],
+   "title": "Broken Femur Recovery Time: My Day-by-Day Timeline",
+   "description": "Real recovery timeline from a subtrochanteric femur fracture — surgery, NWB protocol, suture removal, first SLR, weight-bearing milestones. Updated as the recovery progresses."
+  },
+  {
+   "url": "https://prommer.net/en/training/nutrition/",
+   "status": 200,
+   "seconds": 1.67,
+   "issues": [
+    "slow: 1.7s"
+   ],
+   "title": "Nutrition for Endurance Athletes | Thomas Prommer",
+   "description": "Evidence-based nutrition strategies for marathon, triathlon, and HYROX athletes. Race fueling, body composition, GLP-1 experience, and practical protocols from a competitive age-grouper."
+  },
+  {
+   "url": "https://prommer.net/en/training/nutrition/glp1/",
+   "status": 200,
+   "seconds": 2.2,
+   "issues": [
+    "slow: 2.2s"
+   ],
+   "title": "GLP-1 for Athletes: My Journey to Race Weight",
+   "description": "A triathlete documents his GLP-1 journey: tirzepatide, then semaglutide after the June 2026 switch, then back to tirzepatide (Japanese label) from 29 August 2026 — body composition data, weight tracking, dosage protocol, side effects, and training outcomes."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/gear/",
+   "status": 200,
+   "seconds": 2.08,
+   "issues": [
+    "slow: 2.1s"
+   ],
+   "title": "Swimrun Gear Guide 2026: Wetsuits, Shoes, Paddles &amp; Equipment",
+   "description": "Complete swimrun equipment guide covering wetsuits, trail shoes, hand paddles, pull buoys, and accessories. Technical analysis and recommendations for every budget."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-aland-2026/",
+   "status": 200,
+   "seconds": 3.09,
+   "issues": [
+    "slow: 3.1s"
+   ],
+   "title": "ÖTILLÖ Åland 2026: Swimrun in Finland&#39;s Archipelago",
+   "description": "ÖTILLÖ Åland 2026 — race date, distances, course details, and travel guide for the swimrun event in the Åland archipelago between Sweden and Finland."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-casco-bay-2026/",
+   "status": 200,
+   "seconds": 1.76,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "ÖTILLÖ Casco Bay 2026: New England Swimrun in Maine",
+   "description": "ÖTILLÖ Casco Bay 2026 — race date, distances, course details, and travel guide for the swimrun event in Casco Bay, Portland, Maine, USA."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/what-is-swimrun/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [
+    "title 74 chars (cut off in Google)"
+   ],
+   "title": "What is Swimrun? The Complete Guide to the Fastest-Growing Endurance Sport",
+   "description": "Everything you need to know about swimrun — the team endurance sport combining open-water swimming and trail running. Rules, distances, gear, training, and how to get started."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/ironman-70-3/training-plan-beginner/",
+   "status": 200,
+   "seconds": 1.58,
+   "issues": [
+    "slow: 1.6s"
+   ],
+   "title": "70.3 Training Plan: 12-Week Beginner Plan for First Half Ironman",
+   "description": "A 12-week 70.3 training plan for first-time half Ironman athletes. Weekly sessions, nutrition, pacing, and mistakes to avoid. Written by an age grouper."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-703-barcelona-2026/",
+   "status": 200,
+   "seconds": 0.72,
+   "issues": [
+    "title 71 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN 70.3 Barcelona 2026: Race Guide &amp; Europe&#39;s Biggest Half",
+   "description": "IRONMAN 70.3 Barcelona 2026 — October 4 in Calella, 50 km north of Barcelona. Fast course (1.9/90/21.1 km), ~3,500 athletes, registration, travel."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-703-kraichgau-2026/",
+   "status": 200,
+   "seconds": 0.99,
+   "issues": [
+    "title 72 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN 70.3 Kraichgau 2026: Race Guide &amp; Germany&#39;s Climber 70.3",
+   "description": "IRONMAN 70.3 Kraichgau 2026 — June 7 in Baden-Württemberg. Full course (1.9/90/21.1 km), climber bike through wine country, registration and travel."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-hamburg-2026/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [
+    "title 75 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN Hamburg 2026: Race Guide, Flat Course &amp; Why It&#39;s a PB Chase",
+   "description": "IRONMAN Hamburg 2026 — July 19 in Hamburg. Alster lake swim, Europe's flattest full-distance bike, four-lap marathon, Rathausmarkt finish. Full guide."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/fuerza/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [
+    "<html lang=\"en\"> on a /es/ page"
+   ],
+   "title": "Fuerza | Calculadoras de entrenamiento",
+   "description": "1RM, estándares de fuerza y calculadoras de levantamiento."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/general/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [
+    "<html lang=\"en\"> on a /es/ page"
+   ],
+   "title": "Fitness General | Calculadoras de entrenamiento",
+   "description": "VO2max, tests de fitness, quema de calorías y herramientas generales."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-barcelona-2026/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-barcelona/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-barcelona-2026/inscripciones/",
+   "status": 200,
+   "seconds": 0.72,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-barcelona/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-bilbao-2026/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bilbao/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-bilbao-2027/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-bilbao/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-guadalajara-2026/",
+   "status": 200,
+   "seconds": 0.61,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-guadalajara/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-guadalajara-2027/",
+   "status": 200,
+   "seconds": 1.55,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-guadalajara/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-madrid-2026/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-madrid/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-malaga-2026/",
+   "status": 200,
+   "seconds": 1.19,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-malaga/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-malaga-2027/",
+   "status": 200,
+   "seconds": 0.77,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-malaga/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-tenerife-2026/",
+   "status": 200,
+   "seconds": 1.39,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-tenerife/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-tenerife-2026/inscripciones/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-tenerife/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-valencia-2026/",
+   "status": 200,
+   "seconds": 3.03,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-valencia/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/carreras/hyrox-valencia-2026/inscripciones/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-valencia/"
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/times-by-age/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "Pautas de HYROX por edad y sexo | ¿En qué puesto te encuentras? (2026)",
+   "description": "Pautas de tiempo de HYROX por grupo de edad y sexo. Descubre tu percentil en las divisiones Open y Pro en 9 grupos de edad, desde los 16 hasta los 60 años o más. Basado en más de 700 000 resultados de carrera."
+  },
+  {
+   "url": "https://prommer.net/es/tech/consultoria-ia/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "AI Consultoría estratégica: en qué consiste mi trabajo y cómo funciona",
+   "description": "Un AI strategy consultant desde dentro de la empresa: en qué consiste realmente el trabajo, cuándo se amortiza la inversión, cómo comparar a los profesionales con las empresas MBB y Big 4, y qué preguntar antes de firmar."
+  },
+  {
+   "url": "https://prommer.net/es/tech/directivo-fraccional/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [
+    "title 92 chars (cut off in Google)"
+   ],
+   "title": "Fractional CTO y CIO: Cómo funciona en la práctica el liderazgo tecnológico a tiempo parcial",
+   "description": "Los modelos Fractional CTO y CIO, propuestos por la persona encargada de gestionar los proyectos. En qué consiste el trabajo de un ejecutivo de tecnología fraccionada, cuándo funciona el modelo, la comparación entre los modelos CTO, CIO y CAIO, cuánto cuesta y cómo elegir uno."
+  },
+  {
+   "url": "https://prommer.net/es/training/hyrox/crucero/",
+   "status": 200,
+   "seconds": 1.84,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "Crucero HYROX 2026: Guía Completa — Precio, Programa y Reserva",
+   "description": "Todo sobre el primer crucero HYROX del mundo: fechas, itinerario, programa de entrenamiento, precios y cómo reservar tu plaza a bordo del Mein Schiff 4."
+  },
+  {
+   "url": "https://prommer.net/es/training/hyrox/entrenamiento/puebla/",
+   "status": 200,
+   "seconds": 1.75,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "HYROX Training en Puebla: Los Mejores Gyms e Instalaciones",
+   "description": "Encuentra las mejores instalaciones de entrenamiento HYROX en Puebla. CrossFit, rutas de carrera y consejos para tu preparacion HYROX en la Angelopolis."
+  },
+  {
+   "url": "https://prommer.net/es/training/triathlon/carreras/ironman-lanzarote-2026/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN Lanzarote 2026: Guía de carrera del IRONMAN más duro del mundo",
+   "description": "IRONMAN Lanzarote 2026 — 23 de mayo en Puerto del Carmen. Recorrido volcánico (3,8/180/42,2 km), vientos alisios, 2.500 m de desnivel. El más exigente."
+  },
+  {
+   "url": "https://prommer.net/fi/harjoittelu/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [
+    "<html lang=\"en\"> on a /fi/ page"
+   ],
+   "title": "HYROX vs CrossFit: CrossFit: Kumpi sopii sinulle? (2026 Vertailu)",
+   "description": "HYROX vs. CrossFit -vertailu: muoto, kustannukset, vaikeusaste, loukkaantumisriski ja kenelle kukin sopii parhaiten. Selkeä jaottelu auttaa sinua valitsemaan oikean kuntokilpailun."
+  },
+  {
+   "url": "https://prommer.net/fi/harjoittelu/hyrox/mika-on-hyrox/",
+   "status": 200,
+   "seconds": 1.2,
+   "issues": [
+    "<html lang=\"en\"> on a /fi/ page"
+   ],
+   "title": "Mikä on HYROX? Kuntokilpailu selitetty (2026 Definitive Guide)",
+   "description": "HYROX on standardoitu kuntoilukilpailu, jossa yhdistyvät 8 kilometrin juoksu ja 8 toiminnallista harjoitusasemaa - samanlaiset jokaisessa tapahtumassa maailmanlaajuisesti. Täydellinen opas: formaatti, asemat, osastot, historia ja osallistuminen."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/calculateur-vdot/",
+   "status": 200,
+   "seconds": 0.42,
+   "issues": [
+    "title 86 chars (cut off in Google)"
+   ],
+   "title": "Calculateur VDOT — Allures d&#39;entraînement &amp; Prévisions de course | prommer.net",
+   "description": "Calculez votre VDOT à partir de n'importe quel résultat de course. Obtenez des allures d'entraînement personnalisées pour les zones Easy, Marathon, Seuil, Intervalle et Répétition, ainsi que des prévisions de temps de course."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/cyclisme/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [
+    "<html lang=\"en\"> on a /fr/ page"
+   ],
+   "title": "Cyclisme | Calculateurs d&#39;entraînement",
+   "description": "Puissance, FTP, développement et calculateurs cyclistes."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/conseils/",
+   "status": 200,
+   "seconds": 0.72,
+   "issues": [
+    "<html lang=\"en\"> on a /fr/ page"
+   ],
+   "title": "Guide HYROX 2026 : Conseils Techniques pour les 8 Stations",
+   "description": "Maîtrisez chaque station HYROX en 2026 avec nos guides techniques détaillés, stratégies de pacing et astuces de pro. Du SkiErg aux Wall Balls."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/conseils/skierg-conseils/",
+   "status": 200,
+   "seconds": 2.0,
+   "issues": [
+    "slow: 2.0s"
+   ],
+   "title": "HYROX SkiErg Conseils 2026 : Technique, Pacing &amp; Stratégie",
+   "description": "Maîtrisez le SkiErg HYROX avec la bonne technique, la stratégie de pacing et les astuces d'entraînement. Économisez de l'énergie tout en atteignant vos temps cibles."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-bordeaux-2026/",
+   "status": 200,
+   "seconds": 1.94,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-bordeaux/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-bordeaux-2026/inscription/",
+   "status": 200,
+   "seconds": 0.72,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-bordeaux/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-lyon-2026/",
+   "status": 200,
+   "seconds": 1.49,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-lyon/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-lyon-2027/",
+   "status": 200,
+   "seconds": 1.2,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-lyon/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-marseille-2026/",
+   "status": 200,
+   "seconds": 1.28,
+   "issues": [
+    "title 68 chars (cut off in Google)"
+   ],
+   "title": "HYROX Marseille 2026 : Entraînement, Community &amp; Courses Proches",
+   "description": "Pas de HYROX Marseille confirmé en 2026 — mais la cité phocéenne offre des conditions d'entraînement exceptionnelles. Salles, parcours, communauté et courses proches."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-nice-2026/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-nice/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-nice-2027/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-nice/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-paris-2026/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-paris/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-paris-2026/inscription/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-paris/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-paris-2027/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-paris/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-toulouse-2026/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-toulouse/"
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses/hyrox-toulouse-2027/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/fr/courses/hyrox/hyrox-toulouse/"
+  },
+  {
+   "url": "https://prommer.net/fr/tech/conseil-ia/meilleurs-cabinets-conseil-ia/",
+   "status": 200,
+   "seconds": 0.36,
+   "issues": [
+    "title 90 chars (cut off in Google)"
+   ],
+   "title": "Les meilleurs cabinets de conseil AI en 2026 : le point de vue d&amp;#x27;un professionnel",
+   "description": "Une analyse du marché des cabinets de conseil AI en 2026 par CTO : McKinsey, BCG, Bain, Deloitte, Accenture, les boutiques de conseil réputées et les consultants indépendants, et déterminer quelle solution convient à chaque étape du développement de l&#38;#x27;entreprise."
+  },
+  {
+   "url": "https://prommer.net/fr/tech/conseil-ia/salaire-consultant-ia/",
+   "status": 200,
+   "seconds": 1.47,
+   "issues": [
+    "title 68 chars (cut off in Google)"
+   ],
+   "title": "AI Salaire des consultants : ce que le marché paie réellement (2026)",
+   "description": "Données réelles sur la rémunération des consultants et des responsables stratégiques AI en 2026 : des associés MBB et Big 4 aux Chief AI Officer à temps plein, en passant par les niveaux de rémunération à temps partiel et de conseiller que la plupart des candidats ne voient jamais dans les données publiques."
+  },
+  {
+   "url": "https://prommer.net/fr/tech/dirigeant-temps-partage/",
+   "status": 200,
+   "seconds": 0.97,
+   "issues": [
+    "title 99 chars (cut off in Google)"
+   ],
+   "title": "Fractional CTO et CIO : comment fonctionne concrètement le leadership technologique à temps partiel",
+   "description": "Les modèles Fractional CTO et CIO proposés par un spécialiste des missions de conseil. Le rôle d&#38;#x27;un responsable technologique à temps partiel, les avantages de ce modèle, la distinction entre les modèles CTO, CIO et CAIO, leur coût et comment faire son choix."
+  },
+  {
+   "url": "https://prommer.net/fr/tech/guides/chasseur-de-tete-it-guide/",
+   "status": 200,
+   "seconds": 0.72,
+   "issues": [
+    "title 77 chars (cut off in Google)"
+   ],
+   "title": "Chasseur de tête IT : Guide d&#39;un CTO pour naviguer l&#39;Executive Search",
+   "description": "Le guide d'un CTO pour travailler avec les chasseurs de tête IT. Quels cabinets se spécialisent dans les rôles de CTO et VP Engineering, comment évaluer un recruteur, et comment se faire repérer."
+  },
+  {
+   "url": "https://prommer.net/fr/training/hyrox/croisiere/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [
+    "title 72 chars (cut off in Google)"
+   ],
+   "title": "Croisière HYROX 2026 : Guide Complet — Prix, Programme &amp; Réservation",
+   "description": "Tout savoir sur la première croisière HYROX au monde : dates, itinéraire, programme d'entraînement, prix et comment réserver votre place à bord du Mein Schiff 4."
+  },
+  {
+   "url": "https://prommer.net/fr/training/triathlon/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "Distances Triathlon : du Sprint à l&#39;Ironman — Le guide complet",
+   "description": "Toutes les distances de triathlon expliquées : Super Sprint, Sprint, Distance M (olympique), IRONMAN 70.3 et longue distance. Comparatif interactif avec temps moyens par niveau et catégorie d'âge."
+  },
+  {
+   "url": "https://prommer.net/fr/training/triathlon/courses/ironman-nice-2026/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "IRONMAN Nice 2026 : Guide, parcours vélo montagne &amp; Kona slots",
+   "description": "IRONMAN Nice 2026 — 21 juin sur la Côte d'Azur. Natation en Méditerranée, 180 km vélo en montagne, marathon sur la Promenade. Grimpe et chaleur."
+  },
+  {
+   "url": "https://prommer.net/hu/edzes/hyrox/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "title 82 chars (cut off in Google)"
+   ],
+   "title": "HYROX: Teljes útmutató az edzésekhez, a versenyekhez és az időeredményekhez (2026)",
+   "description": "A teljes HYROX-útmutató. Edzéstervek, tempószámító, referenciaidők és állomásonkénti technikákról szóló útmutatók egy tapasztalt versenyzőtől."
+  },
+  {
+   "url": "https://prommer.net/hu/edzes/hyrox/versenyek/hyrox-budapest-2026/",
+   "status": 200,
+   "seconds": 1.44,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-budapest/"
+  },
+  {
+   "url": "https://prommer.net/id/training/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "Hyrox vs CrossFit: Mana yang Cocok untuk Kamu? (Perbandingan 2026)",
+   "description": "Hyrox vs CrossFit dibandingkan: format, biaya, level kesulitan, risiko cedera, dan untuk siapa masing-masing cocok. Penjelasan jelas untuk membantu kamu memilih kompetisi fitness yang tepat."
+  },
+  {
+   "url": "https://prommer.net/id/training/hyrox/training/jakarta/",
+   "status": 200,
+   "seconds": 3.06,
+   "issues": [
+    "slow: 3.1s"
+   ],
+   "title": "Hyrox Jakarta 2026: Gym, Rute Lari, Panduan Race",
+   "description": "Panduan lengkap Hyrox Jakarta 2026. Lokasi venue, gym dengan zona Hyrox, rute lari di SCBD dan Senayan, biaya gym, dan tips persiapan untuk atlet Jakarta."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/consigli/",
+   "status": 200,
+   "seconds": 0.23,
+   "issues": [
+    "<html lang=\"en\"> on a /it/ page"
+   ],
+   "title": "Guida Completa HYROX 2026: Consigli per Tutte le 8 Stazioni",
+   "description": "Padroneggia ogni stazione HYROX nel 2026 con guide tecniche, strategie di pacing e consigli professionali. Dallo SkiErg ai Wall Balls, esegui ogni stazione con efficienza."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/gare/hyrox-roma-2026/",
+   "status": 200,
+   "seconds": 1.75,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "HYROX Roma 2026: Date, Sede, Iscrizioni e Guida Completa",
+   "description": "HYROX Roma 2026 — 24-27 settembre nella Capitale. Date, sede, prezzi, come arrivare, alloggio e consigli per la gara. La prima edizione HYROX a Roma."
+  },
+  {
+   "url": "https://prommer.net/it/training/hyrox/allenamento/bologna/",
+   "status": 200,
+   "seconds": 1.31,
+   "issues": [
+    "title 66 chars (cut off in Google)"
+   ],
+   "title": "HYROX Training a Bologna 2026: Palestre, Percorsi e Guida Completa",
+   "description": "Guida completa per la preparazione HYROX a Bologna. CrossFit, palestre con attrezzatura specifica, percorsi di corsa sotto i portici UNESCO e logistica BolognaFiere."
+  },
+  {
+   "url": "https://prommer.net/it/training/hyrox/crociera/",
+   "status": 200,
+   "seconds": 0.89,
+   "issues": [
+    "title 70 chars (cut off in Google)"
+   ],
+   "title": "Crociera HYROX 2026: Guida Completa — Prezzi, Programma e Prenotazione",
+   "description": "Tutto sulla prima crociera HYROX al mondo: date, itinerario, programma di allenamento, prezzi e come prenotare il tuo posto a bordo del Mein Schiff 4."
+  },
+  {
+   "url": "https://prommer.net/nl/training/hyrox/cruise/",
+   "status": 200,
+   "seconds": 1.8,
+   "issues": [
+    "slow: 1.8s"
+   ],
+   "title": "HYROX Cruise 2026: Complete Gids — Kosten, Programma &amp; Boeken",
+   "description": "Alles over de eerste HYROX fitnesscruise 2026: data, reisroute, trainingsprogramma op vier deks, prijzen en hoe je een plek reserveert op de Mein Schiff 4."
+  },
+  {
+   "url": "https://prommer.net/nl/training/hyrox/uitslagen/",
+   "status": 200,
+   "seconds": 1.55,
+   "issues": [
+    "slow: 1.5s"
+   ],
+   "title": "HYROX Uitslagen: jouw tijd en leaderboard vinden",
+   "description": "Waar HYROX-uitslagen te vinden: officieel platform, onafhankelijke aggregator, en hoe je tijd, splits en klassement opzoekt per seizoen of stad."
+  },
+  {
+   "url": "https://prommer.net/nl/training/hyrox/wat-is-hyrox/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [
+    "title 67 chars (cut off in Google)"
+   ],
+   "title": "Wat is HYROX? De fitnesswedstrijd uitgelegd (2026 Definitieve Gids)",
+   "description": "HYROX is een gestandaardiseerde fitnesswedstrijd die 8 km hardlopen combineert met 8 functionele workout-stations - identiek op elk evenement wereldwijd. Complete gids: formaat, stations, divisies, geschiedenis en hoe je je kunt inschrijven."
+  },
+  {
+   "url": "https://prommer.net/pt/training/hyrox/treino/lisboa/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [
+    "title 67 chars (cut off in Google)"
+   ],
+   "title": "HYROX Training em Lisboa: Melhores Ginásios, Percursos e Comunidade",
+   "description": "Guia completo para treinar HYROX em Lisboa: ginásios com equipamento específico, boxes de CrossFit, percursos de corrida, comunidade fitness funcional e dicas de logística para a capital portuguesa."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/corridas/hyrox-lisboa-2026/",
+   "status": 200,
+   "seconds": 1.38,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/en/races/hyrox/hyrox-lisboa/"
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/corridas/hyrox-rio-de-janeiro-2026/",
+   "status": 200,
+   "seconds": 1.5,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/pt-br/provas/hyrox/hyrox-rio-de-janeiro/"
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/corridas/hyrox-sao-paulo-2026/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [
+    "in sitemap but redirects off-site to findmynextrace.com"
+   ],
+   "redirect": "https://findmynextrace.com/pt-br/provas/hyrox/hyrox-sao-paulo/"
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/dicas/",
+   "status": 200,
+   "seconds": 0.8,
+   "issues": [
+    "<html lang=\"en\"> on a /pt/ page"
+   ],
+   "title": "Guia Completo HYROX 2026: Dicas para Todas as 8 Estacoes",
+   "description": "Domine todas as estacoes do HYROX em 2026 com guias de tecnica, estrategia de ritmo e dicas profissionais. Do SkiErg ao Wall Balls - execute cada estacao com eficiencia."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/times-by-age/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [
+    "title 72 chars (cut off in Google)"
+   ],
+   "title": "Padrões HYROX por idade e sexo | Em que posição você se encontra? (2026)",
+   "description": "Padrões de tempo do HYROX por faixa etária e gênero. Descubra seu percentil nas categorias Open e Pro em 9 faixas etárias, dos 16 aos 60 anos ou mais. Com base em mais de 700 mil resultados de corridas."
+  },
+  {
+   "url": "https://prommer.net/sv/training/hyrox/traning/stockholm/",
+   "status": 200,
+   "seconds": 0.92,
+   "issues": [
+    "<html lang=\"en\"> on a /sv/ page"
+   ],
+   "title": "HYROX Stockholm 2026: Gym, löparslingor och tävlingsguide",
+   "description": "Komplett HYROX Stockholm 2026 guide. Stockholmsmässan, bästa crossfit-boxar, löparslingor vid Djurgården, transport, boende och tips för din HYROX-förberedelse i den svenska huvudstaden."
+  },
+  {
+   "url": "https://prommer.net/sv/traning/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [
+    "<html lang=\"en\"> on a /sv/ page"
+   ],
+   "title": "HYROX vs CrossFit: Vilket är rätt för dig? (Jämförelse 2026)",
+   "description": "HYROX vs CrossFit jämfört: format, kostnad, svårighetsgrad, skaderisk och vem som passar bäst. Tydlig uppdelning som hjälper dig att välja rätt fitnesstävling."
+  },
+  {
+   "url": "https://prommer.net/sv/traning/hyrox/vad-ar-hyrox/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [
+    "<html lang=\"en\"> on a /sv/ page"
+   ],
+   "title": "Vad är HYROX? Fitnessloppet förklarat (2026 Definitiv guide)",
+   "description": "HYROX är ett standardiserat motionslopp som kombinerar 8 km löpning med 8 funktionella träningsstationer - identiskt vid varje evenemang över hela världen. Komplett guide: format, stationer, divisioner, historia och hur man anmäler sig."
+  },
+  {
+   "url": "https://prommer.net/vi/tap-luyen/hyrox/giai-dua/hyrox-ha-noi-2027/",
+   "status": 200,
+   "seconds": 1.34,
+   "issues": [
+    "title 88 chars (cut off in Google)"
+   ],
+   "title": "HYROX Việt Nam 2027: Tin đồn về chặng đua đầu tiên tại Hà Nội — Những điều chúng ta biết",
+   "description": "Các báo cáo cho biết chặng đua đầu tiên của HYROX tại Việt Nam dự kiến sẽ diễn ra tại Hà Nội vào khoảng tháng 3 năm 2027. Hiện vẫn chưa có thông tin chính thức nào — dưới đây là những thông tin đã được xác thực, những điều vẫn chỉ là tin đồn, và cách để nhận thông báo ngay khi HYROX xác nhận sự kiện này."
+  },
+  {
+   "url": "https://prommer.net/",
+   "status": 200,
+   "seconds": 0.28,
+   "issues": [],
+   "title": "Thomas Prommer | Technology Executive &amp; Hybrid Athlete",
+   "description": "Technology Executive, CTO/CIO, AI Strategy Consultant. Hybrid Athlete competing in Marathon, Ironman, and HYROX."
+  },
+  {
+   "url": "https://prommer.net/cs/trenink/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [],
+   "title": "HYROX vs. CrossFit: Co je pro vás to pravé? (2026 Srovnání)",
+   "description": "Srovnání HYROX vs. CrossFit: formát, cena, obtížnost, riziko zranění a komu vyhovuje nejlépe. Přehledné členění, které vám pomůže vybrat tu správnou fitness soutěž."
+  },
+  {
+   "url": "https://prommer.net/da/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Thomas Prommer | Teknologichef &amp; Hybrid Atlet",
+   "description": "Teknologichef, fraktionel CTO/CIO, AI-strategikonsulent. Hybrid atlet i Marathon, Ironman og HYROX."
+  },
+  {
+   "url": "https://prommer.net/de/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "Thomas Prommer | Technologie-Executive &amp; Hybrid-Athlet",
+   "description": "Technologie-Executive, CTO/CIO, KI-Strategie-Berater. Hybrid-Athlet in Marathon, Ironman und HYROX."
+  },
+  {
+   "url": "https://prommer.net/de/tech/ki-beratung/",
+   "status": 200,
+   "seconds": 0.25,
+   "issues": [],
+   "title": "AI Strategieberatung: Was ich mache und wie es funktioniert",
+   "description": "Ein AI strategy consultant aus der Perspektive des Kunden: Was die Arbeit konkret beinhaltet, wann sie sich amortisiert, wie man die Dienstleister mit den Firmen MBB und Big 4 vergleicht und welche Fragen man stellen sollte, bevor man unterschreibt."
+  },
+  {
+   "url": "https://prommer.net/de/training/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "Thomas Prommer | Hybrid Athlet - Marathon, Ironman, HYROX",
+   "description": "Technologie-Manager am Tag, Ausdauersportler aus Leidenschaft. Marathonläufer auf dem Weg zum ersten Ironman, dazu HYROX-Training."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/",
+   "status": 200,
+   "seconds": 0.36,
+   "issues": [],
+   "title": "Training Tools &amp; Rechner",
+   "description": "Kostenlose Trainingstools und Rechner für HYROX, Triathlon und Ausdauersport."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/ernaehrung/schweissrate/",
+   "status": 200,
+   "seconds": 0.64,
+   "issues": [],
+   "title": "Schweißrate Rechner | Kostenloses Hydrations-Tool für Sport",
+   "description": "Berechne deine persönliche Schweißrate anhand von Körpergewicht vor und nach dem Sport. Evidenzbasierte Trinkempfehlungen auf Basis von ACSM- und Sawka-et-al.-Forschung für optimale Leistung und Erholung."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/herzfrequenz-zonen/herzfrequenz-erholung/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [],
+   "title": "HF-Erholung Rechner | Sporttools",
+   "description": "HF-Erholung Rechner - Schätzungen basierend auf etablierten Formeln."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/hyrox-rechner/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "HYROX Rechner | Laufsplits &amp; Stationszeiten",
+   "description": "Kostenloser HYROX Pace Rechner. Berechne deine Laufsplits pro Kilometer und Stationszeiten basierend auf Zielzeit, Division und Stärkenprofil."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/laufen/kalorien/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "Kalorienverbrauch Laufen Rechner | Kalorien beim Joggen",
+   "description": "Berechne wie viele Kalorien du beim Laufen verbrennst. Schätzung basierend auf Gewicht, Dauer, Tempo und Gelände."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/radfahren/kalorien/",
+   "status": 200,
+   "seconds": 1.22,
+   "issues": [],
+   "title": "Kalorienverbrauch Radfahren | Kalorien beim Radeln",
+   "description": "Berechne Kalorienverbrauch beim Radfahren."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/triathlon-rechner/",
+   "status": 200,
+   "seconds": 1.44,
+   "issues": [],
+   "title": "Triathlon Rechner | Sprint, Olympisch, 70.3 &amp; Ironman",
+   "description": "Kostenloser Triathlon Rechner: Schätze Zielzeiten von Sprint bis Ironman anhand Schwimm-CSS, Rad-FTP und Laufpace. Mit Splits und Zeitspannen."
+  },
+  {
+   "url": "https://prommer.net/de/training/calculators/triathlon/ironman-tss-planer/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [],
+   "title": "Ironman TSS-Rennplaner | Umgekehrter TSS-Rechner",
+   "description": "Berechne Ironman-Leistungsziele rückwärts aus einem TSS-Budget. FTP und Ziel-TSS eingeben, Normalisierte Leistung und Durchschnittswatt erhalten."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HYROX Training &amp; Wettkampf Guide",
+   "description": "Dein kompletter HYROX Guide: Trainingspläne, Pace-Rechner, Benchmark-Zeiten und Stationstipps von einem erfahrenen HYROX-Athleten und Wettkämpfer."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/coach/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [],
+   "title": "HYROX Coach | Ausbildung, Kosten &amp; Trainer werden",
+   "description": "Alles ueber HYROX Coaches: Zertifizierungslevel, Ausbildungskosten, was Trainer machen und wie du selbst HYROX Coach wirst."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/ergebnisse/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "HYROX Ergebnisse: Zeit, Splits und Bestenlisten finden",
+   "description": "Wo HYROX-Ergebnisse zu finden sind: offizielle Plattform, Aggregator und wie du Zeit, Splits und Platzierung nach Saison oder Stadt suchst."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.64,
+   "issues": [],
+   "title": "HYROX vs CrossFit: Was passt besser zu dir? (Vergleich 2026)",
+   "description": "HYROX vs CrossFit im Vergleich: Format, Kosten, Schwierigkeit und Verletzungsrisiko. Klare Entscheidungshilfe, welches Konzept zu dir passt."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [],
+   "title": "HYROX Rennen 2026: Alle Termine &amp; Orte",
+   "description": "Komplette Übersicht aller HYROX Rennen 2026 weltweit - Deutschland, Europa, USA und Asien-Pazifik mit Terminen und Anmeldung."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/deutschland/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "HYROX Deutschland Rennen 2026: Alle Termine",
+   "description": "Alle HYROX Rennen in Deutschland 2026 - Berlin, Hamburg, Frankfurt, Köln, Stuttgart und München mit Terminen, Austragungsorten und Anmeldung."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/europa/wien/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [],
+   "title": "HYROX Wien Rennen 2026: Termine &amp; Anmeldung",
+   "description": "HYROX Wien 2026 - 6.-8. Februar 2026 in der Messe Wien. Ticketpreise, Anreise und Trainingstipps für das osterreichische HYROX-Event."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-bremen-2026/",
+   "status": 200,
+   "seconds": 0.64,
+   "issues": [],
+   "title": "HYROX Bremen 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Bremen 2026 — aber die Hansestadt an der Weser hat eine aktive Laufszene und ideale Lage zwischen Hamburg und Köln. Trainingsmöglichkeiten, Community und die nächsten Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-dresden-2026/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HYROX Dresden 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Dresden 2026 — aber die Elbmetropole hat eine wachsende Fitness-Szene und traumhafte Laufstrecken. Trainingsmöglichkeiten, Community und die nächsten HYROX-Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-graz-2026/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "HYROX Graz 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Graz 2026 — aber Österreichs zweitgrößte Stadt hat eine junge Fitness-Community und Wien als nächstes Rennen in 2,5 Stunden. Trainingsmöglichkeiten und nächste Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-hannover-2026/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "HYROX Hannover 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Hannover 2026 — aber die Messestadt hat eine aktive Laufszene und ideale Lage zwischen Hamburg und Berlin. Trainingsmöglichkeiten, Community und die nächsten Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-leipzig-2026/",
+   "status": 200,
+   "seconds": 1.17,
+   "issues": [],
+   "title": "HYROX Leipzig 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Leipzig 2026 — aber die Geburtsstadt von HYROX hat eine einzigartige Verbindung zum Sport. Trainingsmöglichkeiten, Community und die nächsten Rennen in Reichweite."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-muenchen-2026/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [],
+   "title": "HYROX München 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX München 2026 — aber Deutschlands sportlichste Stadt hat alles für die Vorbereitung. Training, Community und nächste Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-nuernberg-2026/",
+   "status": 200,
+   "seconds": 0.78,
+   "issues": [],
+   "title": "HYROX Nürnberg 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Nürnberg 2026 — aber Frankens Metropole hat eine aktive Triathlon- und Fitness-Szene. Trainingsmöglichkeiten, Community und die nächsten HYROX-Rennen in Reichweite."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-stuttgart-2026/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [],
+   "title": "HYROX Stuttgart Rennen 2026: Termine &amp; Anmeldung",
+   "description": "HYROX Stuttgart 2026 - Termine, Messe Stuttgart, Ticketpreise, Anreise und Trainingstipps für das schwabische HYROX-Event."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/rennen/hyrox-zuerich-2026/",
+   "status": 200,
+   "seconds": 0.5,
+   "issues": [],
+   "title": "HYROX Zürich 2026: Training, Community &amp; nächste Rennen",
+   "description": "Kein bestätigtes HYROX Zürich 2026 — aber die Schweizer Metropole ist eine der fittesten Städte Europas. Trainingsmöglichkeiten, CrossFit-Szene und die nächsten Rennen in Reichweite."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tickets/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "HYROX Tickets 2026: Kaufen, Übertragen &amp; Preise",
+   "description": "HYROX Tickets kaufen: Preise für Singles, Doubles und Relay, Flex-Ticket Optionen, Transfer-Regeln und Frühbucher-Tipps für Rennen in Deutschland."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/",
+   "status": 200,
+   "seconds": 1.23,
+   "issues": [],
+   "title": "HYROX Tipps: Technik-Guide für alle 8 Stationen",
+   "description": "Meistere alle 8 HYROX Workout-Stationen mit professionellen Technik-Tipps, Pacing-Strategien und häufigen Fehlern, die du vermeiden solltest."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/farmers-carry-tipps/",
+   "status": 200,
+   "seconds": 0.36,
+   "issues": [],
+   "title": "HYROX Farmers Carry Tipps: Griffkraft &amp; Technik",
+   "description": "Meistere die längste HYROX Carry-Station mit optimaler Griffstrategie, aufrechter Haltung und intelligentem Pausen-Management über 200 Meter."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/rudern-tipps/",
+   "status": 200,
+   "seconds": 0.98,
+   "issues": [],
+   "title": "HYROX Rudern Tipps: Technik, Pacing &amp; Strategie",
+   "description": "Meistere die 1000m Rowing-Station mit perfekter Rudertechnik, optimaler Damper-Einstellung und effektivem Pacing zur Halbzeit des HYROX-Rennens."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/sandsack-ausfallschritte-tipps/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "HYROX Sandsack Ausfallschritte Tipps: Technik &amp; Ausdauer",
+   "description": "Meistere die beinzerstörende Station 7 mit optimaler Lunge-Technik, strategischer Sandsack-Position und mentalen Strategien für 100 Meter."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/skierg-tipps/",
+   "status": 200,
+   "seconds": 1.28,
+   "issues": [],
+   "title": "HYROX SkiErg Tipps: Technik, Pacing &amp; Strategie",
+   "description": "Meistere die erste HYROX Station mit optimaler SkiErg-Technik, richtiger Damper-Einstellung und effektivem Pacing für 1000 Meter."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/tipps/wall-balls-tipps/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [],
+   "title": "HYROX Wall Balls Tipps: Technik &amp; Zielgenauigkeit",
+   "description": "Meistere die finale HYROX Station mit perfekter Squat-Technik, präzisen Würfen und mentalem Durchhaltevermögen für 100 Wiederholungen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/training/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "HYROX Training Guide: Komplette Übersicht",
+   "description": "Dein umfassender HYROX Training Guide - von Trainingsplanung uber Stationstechniken bis zu Ernahrung und Regeneration. Alles für deinen Erfolg beim Rennen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/was-ist-hyrox/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "Was ist HYROX? Das Fitness-Rennen erklärt (2026 Definitive Guide)",
+   "description": "HYROX ist ein standardisiertes Fitnessrennen, das 8 km Laufen mit 8 funktionellen Trainingsstationen kombiniert - identisch bei jeder Veranstaltung weltweit. Vollständiger Leitfaden: Format, Stationen, Divisionen, Geschichte und Teilnahmebedingungen."
+  },
+  {
+   "url": "https://prommer.net/de/training/hyrox/zeiten/",
+   "status": 200,
+   "seconds": 1.05,
+   "issues": [],
+   "title": "HYROX Zeiten | Gute Zeiten, Bestzeiten &amp; Durchschnitt",
+   "description": "Was ist eine gute HYROX-Zeit? Durchschnittszeiten, Bestzeiten und Zielzeiten nach Division und Erfahrungslevel. Alle Benchmarks im Überblick."
+  },
+  {
+   "url": "https://prommer.net/de/training/triathlon/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "Triathlon Distanzen: Sprint bis Ironman — Der komplette Guide",
+   "description": "Alle Triathlon-Distanzen erklärt: Super Sprint, Sprint, Olympische Distanz, IRONMAN 70.3 und Langdistanz. Interaktiver Vergleich mit Durchschnittszeiten nach Leistungsklasse und Altersgruppe."
+  },
+  {
+   "url": "https://prommer.net/de/training/triathlon/rennen/challenge-roth-2026/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "Challenge Roth 2026: Rennguide, Strecke &amp; Anmeldung",
+   "description": "Challenge Roth 2026 — 5. Juli in Franken. Komplette Strecke (3,8/180/42,2 km), Solarer Berg, Anmeldung, Anreise und Insider-Tipps aus meiner Vorbereitung."
+  },
+  {
+   "url": "https://prommer.net/de/training/triathlon/rennen/ironman-703-kraichgau-2026/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "IRONMAN 70.3 Kraichgau 2026: Rennguide &amp; härteste 70.3",
+   "description": "IRONMAN 70.3 Kraichgau 2026 — 7. Juni in Baden-Württemberg. Strecke (1,9/90/21,1 km), welligste Radstrecke Deutschlands, Anmeldung und Anreise."
+  },
+  {
+   "url": "https://prommer.net/de/training/triathlon/rennen/ironman-european-championship-frankfurt-2026/",
+   "status": 200,
+   "seconds": 1.23,
+   "issues": [],
+   "title": "IRONMAN Europameisterschaft Frankfurt 2026: Guide &amp; Kona",
+   "description": "IRONMAN Frankfurt 2026 — 28. Juni in Hessen. Strecke (3,8/180/42,2 km), Taunus-Anstiege, Ziel am Römer, Kona-Slots, Anmeldung und Anreise."
+  },
+  {
+   "url": "https://prommer.net/de/training/triathlon/rennen/ironman-hamburg-2026/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "IRONMAN Hamburg 2026: Rennguide, flache Strecke &amp; Bestzeit",
+   "description": "IRONMAN Hamburg 2026 — 19. Juli in Hamburg. Alster-Schwimmen, flachste Radstrecke Europas, Vier-Runden-Marathon, Rathausmarkt-Ziel. Bestzeit-Rennen."
+  },
+  {
+   "url": "https://prommer.net/en/about/thomas-prommer/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "Thomas Prommer - Technology &amp; AI Advisor, Hybrid Athlete",
+   "description": "Thomas Prommer is a technology and AI advisor, founder of We The Flywheel, and former Global SVP of Engineering at Adidas. Facts, photos, and profiles."
+  },
+  {
+   "url": "https://prommer.net/en/about/thomas-prommer/career/",
+   "status": 200,
+   "seconds": 0.42,
+   "issues": [],
+   "title": "Thomas Prommer Career - Roles and Announcements",
+   "description": "Thomas Prommer career history: We The Flywheel, Adidas, Sweetgreen, Bain Capital, Moment, Huge, Fantasy, Roland Berger, Lufthansa Systems. Awards and announcements with dates."
+  },
+  {
+   "url": "https://prommer.net/en/about/thomas-prommer/publications/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "Thomas Prommer Publications - Articles and Research",
+   "description": "Articles and research papers written by Thomas Prommer, from INTERSPEECH 2006 to The Next Web, Adweek, Digiday, and CMSWire."
+  },
+  {
+   "url": "https://prommer.net/en/about/thomas-prommer/race-results/",
+   "status": 200,
+   "seconds": 0.78,
+   "issues": [],
+   "title": "Thomas Prommer Race Results - Marathon and HYROX Times",
+   "description": "Thomas Prommer's marathon, half marathon, and HYROX results with dates and finish times: Valencia, Berlin, Fürth, Los Angeles, Shanghai, and HYROX Singapore. Next: Challenge Roth 2027."
+  },
+  {
+   "url": "https://prommer.net/en/about/thomas-prommer/recommendations/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [],
+   "title": "Thomas Prommer Recommendations - What Colleagues Say",
+   "description": "27 recommendations for Thomas Prommer from colleagues, reports, managers and clients at Huge, Fantasy, Acquia, Sweetgreen and Moment, as published on LinkedIn."
+  },
+  {
+   "url": "https://prommer.net/en/ask-tom/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [],
+   "title": "Ask AI Tom — Get Answers from My Published Writing",
+   "description": "Ask questions and get AI-generated answers grounded in Thomas Prommer's published articles on AI strategy, digital transformation, and technology leadership. Every claim is cited."
+  },
+  {
+   "url": "https://prommer.net/en/grooming/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "Men&#39;s Grooming &amp; Style: The OG of looksmaxxing",
+   "description": "The personal face, hair, and style systems Thomas Prommer actually uses, starting with his current nine-step morning face routine."
+  },
+  {
+   "url": "https://prommer.net/en/newsletter/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "CTAIO Weekly — AI Strategy for CTOs, CIOs &amp; Chief AI Officers",
+   "description": "Weekly intelligence from a practitioner-executive who ships production code, manages $200M IT budgets, and advises PE firms on billion-dollar technology bets. The CTO + CIO + AI newsletter."
+  },
+  {
+   "url": "https://prommer.net/en/privacy/",
+   "status": 200,
+   "seconds": 0.16,
+   "issues": [],
+   "title": "Privacy Policy — Thomas Prommer",
+   "description": "Privacy policy for prommer.net. How your data is collected, used, and protected."
+  },
+  {
+   "url": "https://prommer.net/en/tech/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "CTO &amp; AI Leadership Consulting Services",
+   "description": "CTO &#38; CIO advisory from a technology executive with 20+ years scaling Fortune 500 tech. AI strategy, due diligence, platform engineering. New York-based."
+  },
+  {
+   "url": "https://prommer.net/en/tech/ai-consulting/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "AI Strategy Consulting: What I Do and How It Works",
+   "description": "An AI strategy consultant from inside the chair: what the work actually is, when it pays for itself, how to compare practitioners to MBB and Big 4 firms, and what to ask before you sign."
+  },
+  {
+   "url": "https://prommer.net/en/tech/ai-consulting/enterprise-ai-strategy/",
+   "status": 200,
+   "seconds": 0.53,
+   "issues": [],
+   "title": "Enterprise AI Strategy: A Practical Framework for 2025",
+   "description": "Developing and executing AI strategy in enterprise environments. Frameworks, common pitfalls, and proven approaches from Fortune 500 tech leaders."
+  },
+  {
+   "url": "https://prommer.net/en/tech/ai-consulting/what-does-an-ai-strategy-consultant-do/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "What Does an AI Strategy Consultant Actually Do?",
+   "description": "A practitioner answer to the category-defining question: the four decisions an AI strategy consultant owns, the engagement spectrum from advisor to fractional CAIO, and where consultants stop being worth the money."
+  },
+  {
+   "url": "https://prommer.net/en/tech/articles/enterprise-digital-transformation/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [],
+   "title": "Driving Enterprise Digital Transformation in 2026",
+   "description": "Pragmatic playbook for enterprise digital transformation. Assess readiness, build a modern tech stack, and drive measurable ROI."
+  },
+  {
+   "url": "https://prommer.net/en/tech/articles/how-to-view-cached-pages/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "How to View Cached Pages for SEO and Performance Audits",
+   "description": "Learn how to view cached pages on Google, browsers, and CDNs. A pragmatic guide for tech leaders and athletes on diagnosing issues and analyzing performance."
+  },
+  {
+   "url": "https://prommer.net/en/tech/articles/technology-due-diligence-checklist/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [],
+   "title": "The Ultimate Technology Due Diligence Checklist",
+   "description": "Ensure a successful M&#38;A with our comprehensive technology due diligence checklist for 2026. Mitigate risks and make informed decisions on tech assets."
+  },
+  {
+   "url": "https://prommer.net/en/tech/dynamic-pricing-ai-playbook/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "How to Build a Dynamic Pricing System with AI",
+   "description": "A tactical engineering guide to building a dynamic pricing system. Data pipeline, demand forecasting models, constraint design, the build-vs-buy decision, and the failure modes that cost real money."
+  },
+  {
+   "url": "https://prommer.net/en/tech/enterprise-saas-pricing-negotiation/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "Enterprise SaaS Pricing Negotiation: The Playbook",
+   "description": "A practitioner's guide to negotiating enterprise SaaS contracts: the levers that work, the mistakes that cost millions, and the frameworks top procurement teams use."
+  },
+  {
+   "url": "https://prommer.net/en/tech/fractional-cio/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Fractional CIO: Role, Engagements, and How to Choose One (2026)",
+   "description": "Fractional CIO guide: what they do, how the role differs from a fractional CTO, when mid-market companies need one, costs, and how to evaluate candidates."
+  },
+  {
+   "url": "https://prommer.net/en/tech/fractional/ai-officer/",
+   "status": 200,
+   "seconds": 0.25,
+   "issues": [],
+   "title": "Fractional Chief AI Officer: When the CAIO Model Makes Sense",
+   "description": "Fractional Chief AI Officer from a practitioner who has held the CTAIO seat. When the CAIO model works, how it differs from CTO and CIO, what an engagement covers, and the spectrum from one-day AI advisor to full-time hire."
+  },
+  {
+   "url": "https://prommer.net/en/tech/fractional/rates/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "Fractional CTO Rates: What Engagements Actually Cost in 2026",
+   "description": "Fractional CTO rates from someone who has run the engagements: day rates, monthly retainers, and project fees. What the numbers mean, what drives them, and what you actually get."
+  },
+  {
+   "url": "https://prommer.net/en/tech/future-of-software-engineering/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "The Future of Software Engineering: A Leader’s 2030 Read",
+   "description": "By 2030, AI makes raw productivity table stakes. The differentiators move to judgment, orchestration, and creativity. A technology leader’s read on the shift."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "Tech Guides &amp; Resources | AI Tools, Strategy, DevOps",
+   "description": "Guides on AI coding tools, enterprise AI strategy, incident management, and tech leadership from a Fortune 500 technology executive."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/ai-pair-programmer/",
+   "status": 200,
+   "seconds": 0.23,
+   "issues": [],
+   "title": "AI Pair Programmer in 2026: Copilot to Autonomous Teammate",
+   "description": "Three eras of AI pair programming: autocomplete, agentic copilot, autonomous teammate. How each works, what changed, and which model fits your team."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/ai-strategy/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [],
+   "title": "The Complete Guide to AI Strategy: From Vision to Value",
+   "description": "Guide to developing and scaling AI strategy in enterprise organizations. Proven frameworks, common pitfalls, and how to accelerate AI transformation."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/context-engineering/",
+   "status": 200,
+   "seconds": 0.33,
+   "issues": [],
+   "title": "Context Engineering: The AI Skill Replacing Prompting",
+   "description": "Context engineering is replacing prompt engineering as the critical skill for reliable AI systems. Learn the methodology, tools, and applications."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/cursor-vs-windsurf/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [],
+   "title": "Cursor vs Windsurf: Which AI IDE Is Worth Paying For (2026)",
+   "description": "Cursor is the more mature editor at $20/month; Windsurf undercuts it at $15 with a better free tier. Here is which one actually earns the money, and when switching makes sense."
+  },
+  {
+   "url": "https://prommer.net/en/tech/guides/vibe-coding-enterprise/",
+   "status": 200,
+   "seconds": 0.23,
+   "issues": [],
+   "title": "Vibe Coding or Spec-Driven? My Enterprise Playbook for 2026",
+   "description": "Vibe coding ships fast. Specs ship product that survives Q4. How I think about governance for AI-assisted teams without grinding the whole thing to a halt."
+  },
+  {
+   "url": "https://prommer.net/en/tech/press/global-cio-100/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HotTopics Names Thomas Prommer Global CIO 2026 | Press",
+   "description": "Technology executive Thomas Prommer has been named HotTopics Global CIO 2026 — a peer-nominated, independently judged recognition of the world's most influential digital, technology, and AI leaders."
+  },
+  {
+   "url": "https://prommer.net/en/tech/profile/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [],
+   "title": "Thomas Prommer | Technology Executive &amp; Former Adidas SVP",
+   "description": "Technology executive with C-level roles at Adidas, Sweetgreen, Huge. 1000+ engineers led, $2B+ revenue impact. View credentials, clients, endorsements."
+  },
+  {
+   "url": "https://prommer.net/en/tech/services/chief-technology-ai-officer/",
+   "status": 200,
+   "seconds": 0.66,
+   "issues": [],
+   "title": "Chief Technology &amp; AI Officer (CTAIO) | Thomas Prommer",
+   "description": "Chief Technology &#38; AI Officer (CTAIO) combining CTO and CAIO into one strategic role. 20+ years leading engineering at Fortune 500 scale."
+  },
+  {
+   "url": "https://prommer.net/en/tech/services/fractional-cio/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "Fractional CIO Services | IT Strategy &amp; Transformation",
+   "description": "Fractional CIO services for enterprises needing IT leadership. Former Sweetgreen CIO with enterprise systems and digital transformation experience."
+  },
+  {
+   "url": "https://prommer.net/en/tech/technology-executive-coach/",
+   "status": 200,
+   "seconds": 0.8,
+   "issues": [],
+   "title": "Technology Executive Coach: What It Is and When It Helps (2026)",
+   "description": "Technology executive coaching from practice: how it differs from general exec coaching, what an engagement looks like, who it's for, and what it costs."
+  },
+  {
+   "url": "https://prommer.net/en/terms/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "Terms &amp; Disclaimer — Thomas Prommer",
+   "description": "Terms of service and disclaimer for prommer.net, including AI content disclosure and limitation of liability."
+  },
+  {
+   "url": "https://prommer.net/en/training/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Thomas Prommer | Hybrid Athlete - Marathon, Ironman, HYROX",
+   "description": "Tech executive and hybrid athlete. Marathon runner training for a first Ironman, combining HYROX, strength and endurance training."
+  },
+  {
+   "url": "https://prommer.net/en/training/best-fan-indoor-cycling/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [],
+   "title": "Best Fan for Indoor Cycling: What Actually Works With a KICKR",
+   "description": "After researching every fan the indoor cycling community recommends, here is what actually works with a Wahoo KICKR Core 2 — and why most listicles get it wrong."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/",
+   "status": 200,
+   "seconds": 0.27,
+   "issues": [],
+   "title": "Free Training Calculators | Pace, Zones &amp; HYROX",
+   "description": "Free training calculators for hybrid athletes: pace calculator, training zones, VDOT, race predictor, HYROX splits. Powered by real training algorithms."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/comparisons/zwift-vs-trainingpeaks-virtual-vs-rouvy-comparison/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [],
+   "title": "Zwift vs TrainingPeaks Virtual vs Rouvy (2026)",
+   "description": "I've trained on Zwift, TrainingPeaks Virtual, and Rouvy. How they compare on features, pricing, and training tools — and which fits how you ride."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/cycling/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "Cycling Calculators | Free Training Tools",
+   "description": "Power, FTP, gear ratio, and cycling-specific calculators."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/cycling/ftp-percentile/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [],
+   "title": "Cycling FTP Percentile Calculator | How Good Is Your FTP?",
+   "description": "Free cycling FTP calculator: see your watts per kg percentile by age and gender. Compare your Functional Threshold Power against Coggan levels with an interactive chart."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/general/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [],
+   "title": "General Fitness Calculators | Free Training Tools",
+   "description": "VO2max, fitness tests, calorie burn, and general training tools."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/general/calories-burned-by-distance/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "Calories Burned by Distance | Walking &amp; Running Calculator",
+   "description": "Calculate calories burned per kilometre or mile walking and running, based on your body weight and pace. See the body-fat equivalent of each session."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/general/hiking-calories/",
+   "status": 200,
+   "seconds": 1.19,
+   "issues": [],
+   "title": "Hiking Calorie Calculator | Free Calorie Burn Estimator",
+   "description": "Calculate how many calories you burn hiking. Estimates based on weight, duration, terrain, and elevation gain using MET values from exercise science research."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/general/walking-calories/",
+   "status": 200,
+   "seconds": 0.26,
+   "issues": [],
+   "title": "Walking Calorie Calculator | Free Calorie Burn Estimator",
+   "description": "Calculate how many calories you burn walking. Estimates based on body weight, duration, and pace using MET values from exercise science."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/nutrition/glycogen/",
+   "status": 200,
+   "seconds": 0.78,
+   "issues": [],
+   "title": "Glycogen Depletion Calculator | Nutrition Tool",
+   "description": "Estimate your glycogen stores, depletion rate, and bonk risk based on body weight, sport, intensity, and carb loading status. Based on Bergstrom et al. 1967."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/running/calories/",
+   "status": 200,
+   "seconds": 0.56,
+   "issues": [],
+   "title": "Running Calorie Calculator | Calories Burned Running",
+   "description": "Calculate how many calories you burn running. Estimates based on weight, duration, pace, and terrain using MET values from exercise science research."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/running/steps-to-distance/",
+   "status": 200,
+   "seconds": 0.77,
+   "issues": [],
+   "title": "Steps to Distance Converter | Tools",
+   "description": "Steps to Distance Converter - Converts steps to distance using stride length"
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/strength/bench-press/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "Bench Press Calculator | 1RM Bench Press",
+   "description": "Calculate your bench press one-rep max. Estimate your 1RM bench from any weight and rep count."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/swimming/calories/",
+   "status": 200,
+   "seconds": 0.34,
+   "issues": [],
+   "title": "Swimming Calorie Calculator | Calories Burned Swimming",
+   "description": "Calculate calories burned swimming by stroke, duration, and intensity."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Training Zones Calculator | HR, Pace &amp; Power Zones",
+   "description": "Free training zones calculator with Karvonen, %Max HR, Friel, and Coggan methods. Calculate 5-zone or 7-zone systems for HR, pace, and power."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/cycling/karvonen/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "Karvonen (Heart Rate Reserve) for Cycling",
+   "description": "Calculate cycling training zones using the Karvonen (Heart Rate Reserve) method."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/friel/",
+   "status": 200,
+   "seconds": 0.2,
+   "issues": [],
+   "title": "Joe Friel Training Zone Calculator",
+   "description": "Calculate training zones using Joe Friel's LTHR-based 7-zone system used by elite triathletes and cyclists."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/gulati/",
+   "status": 200,
+   "seconds": 0.36,
+   "issues": [],
+   "title": "Gulati Heart Rate Calculator for Women",
+   "description": "Calculate women's maximum heart rate using the Gulati formula (206 - 0.88 × age). Specifically designed for female athletes."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/maffetone/",
+   "status": 200,
+   "seconds": 0.27,
+   "issues": [],
+   "title": "Maffetone MAF 180 Calculator",
+   "description": "Calculate your Maximum Aerobic Function (MAF) heart rate using Dr. Phil Maffetone's 180 formula for aerobic base training."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/running/",
+   "status": 200,
+   "seconds": 0.36,
+   "issues": [],
+   "title": "Running Training Zone Calculator",
+   "description": "Calculate heart rate and pace training zones specifically for running. Includes sport-specific adjustments."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/running/80-20/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "80/20 Polarized Training for Running",
+   "description": "Calculate running training zones using the 80/20 Polarized Training method."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/training-zones/tanaka/",
+   "status": 200,
+   "seconds": 0.22,
+   "issues": [],
+   "title": "Tanaka Max Heart Rate Calculator",
+   "description": "Calculate maximum heart rate using the Tanaka formula (208 - 0.7 × age). More accurate than the traditional 220-age formula."
+  },
+  {
+   "url": "https://prommer.net/en/training/calculators/vdot-calculator/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "VDOT Calculator — Score &amp; Race Predictions | prommer.net",
+   "description": "Calculate your VDOT from any race result. Personalized training paces for Easy, Marathon, Threshold, Interval, and Repetition zones."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/",
+   "status": 200,
+   "seconds": 0.19,
+   "issues": [],
+   "title": "HYROX: Complete Guide to Training, Racing &amp; Times (2026)",
+   "description": "Your complete HYROX guide. Training plans, pace calculator, benchmark times, and station technique guides from an experienced competitor."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/cruise/",
+   "status": 200,
+   "seconds": 1.09,
+   "issues": [],
+   "title": "HYROX Cruise 2026: Mediterranean Fitness Cruise Guide",
+   "description": "Everything you need to know about the first-ever HYROX Cruise 2026 — dates, itinerary, prices, training programme, elite race, and how to book from the EU or UK."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/high-rocks/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "High Rocks Race? You Mean HYROX (Spelling Explained)",
+   "description": "&#34;High rocks&#34; is a common phonetic misspelling of HYROX, the standardized fitness race. Quick guide to what HYROX actually is and where to start."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.55,
+   "issues": [],
+   "title": "HYROX vs CrossFit: Which Is Right for You? (2026 Comparison)",
+   "description": "HYROX vs CrossFit compared: format, cost, difficulty, injury risk, and who each suits best. Clear breakdown to help you choose the right fitness competition."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/race-costs/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [],
+   "title": "HYROX Race Costs 2026: Entry Fees by Country &amp; Division",
+   "description": "Complete breakdown of HYROX entry fees worldwide. Compare prices by country, division, and learn about all the hidden costs of racing HYROX."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races-2026/",
+   "status": 200,
+   "seconds": 0.66,
+   "issues": [],
+   "title": "HYROX 2026 Schedule &amp; Race Calendar: All Events Worldwide",
+   "description": "Complete list of HYROX races for 2026. Find events in Europe, USA, Asia Pacific, Africa, and South America with dates, locations, and ticket information."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races-2026/asia-pacific/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "HYROX Asia Pacific 2026: All Race Dates, Locations &amp; Tickets",
+   "description": "Complete list of HYROX races in Asia Pacific for 2026. Find events in Australia, Japan, Singapore, and Hong Kong with dates and ticket information."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races-2026/europe/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [],
+   "title": "HYROX Europe 2026: All Race Dates, Locations &amp; Tickets",
+   "description": "Complete list of HYROX races in Europe for 2026. Find events in Germany, UK, France, Spain, Netherlands, and more with dates and ticket information."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races-2026/usa/",
+   "status": 200,
+   "seconds": 0.7,
+   "issues": [],
+   "title": "HYROX USA 2026: All Race Dates, Locations &amp; Tickets",
+   "description": "All HYROX races in the USA for 2026. Find events in New York, Los Angeles, Miami, Chicago, and more with dates and ticket info."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-edinburgh-2026/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [],
+   "title": "HYROX Edinburgh 2026: Training, Community &amp; Nearest Races",
+   "description": "No HYROX Edinburgh race in 2026 — but Glasgow is 75km away (50min train). Edinburgh already has official HYROX Training Clubs. Gyms, routes, and how to get to Glasgow."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-gold-coast-2026/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "HYROX Gold Coast 2026: Training, Community &amp; Nearest Races",
+   "description": "No HYROX Gold Coast confirmed in 2026 — Brisbane is 100km away. Australia's fitness city has exceptional training infrastructure. Gyms, beach running, and nearest HYROX Australia events."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-hanoi-2027/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [],
+   "title": "HYROX Vietnam 2027: Rumoured First Race in Hanoi — What We Know",
+   "description": "Reports point to HYROX's first-ever Vietnam race landing in Hanoi around March 2027. Nothing is official yet — here's the verified background, what's still rumour, and how to get notified the moment HYROX confirms it."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-los-angeles-2026/",
+   "status": 200,
+   "seconds": 0.99,
+   "issues": [],
+   "title": "HYROX Los Angeles 2026: Training, Community &amp; Nearest Races",
+   "description": "No HYROX Los Angeles confirmed for 2026 — but Anaheim is 40km away. The world's fitness capital has everything you need to train. Gyms, running routes, and nearest HYROX races."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-montreal-2026/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "HYROX Montreal 2026: Training, Community &amp; Nearest Races",
+   "description": "No official HYROX Montreal in 2026 — but an unofficial Half-HYROX proves demand. Ottawa is 2 hours away. Gyms, Mont Royal running, and how to access HYROX Canada."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-seattle-2026/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HYROX Seattle 2026: Training, Community &amp; Nearest Races",
+   "description": "HYROX Seattle 2026 — rumored but not confirmed. Active local community, strong training scene, and Vancouver just 230km north. Gyms, routes, and nearest events."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-tokyo-2026/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HYROX Tokyo 2026: Race Date, Venue &amp; Registration",
+   "description": "HYROX Tokyo 2026 — dates, Makuhari Messe venue in Chiba, ticket prices in JPY, travel tips and training advice for the Tokyo area HYROX event."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/races/hyrox-zurich-2026/",
+   "status": 200,
+   "seconds": 1.31,
+   "issues": [],
+   "title": "HYROX Zurich 2026: Training, Community &amp; Nearby Races",
+   "description": "No confirmed HYROX Zurich in 2026 — but Zurich has everything you need to prepare. Training venues, running routes, community and the closest confirmed Swiss races."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/shoes/",
+   "status": 200,
+   "seconds": 0.81,
+   "issues": [],
+   "title": "Best HYROX Shoes 2026: Complete Buying Guide",
+   "description": "Find the best shoes for HYROX racing. Expert recommendations for running, sled push, and all 8 stations. Guide for men and women."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/times-by-age/",
+   "status": 200,
+   "seconds": 0.28,
+   "issues": [],
+   "title": "HYROX Times by Age Group | Open &amp; Pro Benchmarks (2026)",
+   "description": "HYROX finish times by age group and gender for Open and Pro divisions. See where you rank across 9 age groups from 16 to 60+. Based on 700K+ race results."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [],
+   "title": "HYROX Station Tips: Technique Guide for All 8 Stations",
+   "description": "Master every HYROX station with technique guides, pacing strategies, and pro tips. SkiErg to Wall Balls - execute each station efficiently."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/burpee-broad-jump-tips/",
+   "status": 200,
+   "seconds": 0.97,
+   "issues": [],
+   "title": "HYROX Burpee Broad Jump Tips: Technique &amp; Pacing",
+   "description": "Master HYROX Burpee Broad Jumps with efficient technique, smart pacing, and energy-saving strategies. Complete 80 reps without destroying your race."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/farmers-carry-tips/",
+   "status": 200,
+   "seconds": 1.09,
+   "issues": [],
+   "title": "HYROX Farmers Carry Tips: Grip Technique &amp; Pacing",
+   "description": "Master the HYROX Farmers Carry with proper grip technique, walking pace, and break strategy. Carry heavy kettlebells 200m without losing your grip."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/rowing-tips/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [],
+   "title": "HYROX Rowing Tips: Technique, Pacing &amp; Split Times for 1000m",
+   "description": "Master the HYROX 1000m row with proper technique, stroke rate optimization, and pacing strategy. Maintain power output after 5 stations of fatigue."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/sled-push-tips/",
+   "status": 200,
+   "seconds": 0.56,
+   "issues": [],
+   "title": "HYROX Sled Push Tips: Technique, Weight &amp; Strategy Guide",
+   "description": "Master the HYROX Sled Push with proper body position, pacing strategy, and training tips. Conserve energy while moving the heaviest station weights."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/tips/wall-balls-tips/",
+   "status": 200,
+   "seconds": 0.7,
+   "issues": [],
+   "title": "HYROX Wall Balls Tips: Technique, Pacing &amp; Strategy",
+   "description": "Conquer HYROX Wall Balls with proper technique, smart pacing, and mental strategies. Learn how to finish strong with 100 reps after 7 stations of fatigue."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/",
+   "status": 200,
+   "seconds": 1.42,
+   "issues": [],
+   "title": "HYROX Training Guide: Complete Resource",
+   "description": "Master HYROX with our complete training guide. Learn proven training methodology, find gyms near you, and prepare for race day with structured programs."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/",
+   "status": 200,
+   "seconds": 1.3,
+   "issues": [],
+   "title": "Find HYROX Training Near You | Global City Guides",
+   "description": "Find HYROX gyms, training programs, and facilities in 112+ cities worldwide. City-specific guides with training options for every budget across USA, Europe, Asia-Pacific, and more."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/amsterdam/",
+   "status": 200,
+   "seconds": 0.94,
+   "issues": [],
+   "title": "HYROX Amsterdam 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Amsterdam 2026 race guide. RAI Convention Centre venue logistics, best CrossFit boxes, Vondelpark running routes, and tips for training in the Netherlands."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/anaheim/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [],
+   "title": "HYROX Anaheim 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Anaheim 2026 race guide. Anaheim Convention Center logistics, best CrossFit boxes, Santa Ana River Trail running routes, and local training tips."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/barcelona/",
+   "status": 200,
+   "seconds": 0.5,
+   "issues": [],
+   "title": "HYROX Training in Barcelona: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Barcelona. Functional fitness gyms, CrossFit boxes, running routes along Barceloneta Beach, and tips for race prep in Spain."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/beijing/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [],
+   "title": "HYROX Training in Beijing: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Beijing. Functional fitness gyms, running routes in Olympic Forest Park, and tips for preparing in China's capital city."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/bengaluru/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [],
+   "title": "HYROX Training in Bengaluru: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Bengaluru. Functional fitness gyms, running routes, and tips for preparing in India's tech capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/birmingham/",
+   "status": 200,
+   "seconds": 1.12,
+   "issues": [],
+   "title": "HYROX Birmingham 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Birmingham 2026 race guide. NEC venue logistics, best CrossFit boxes, Cannon Hill Park running routes, and training tips in the UK's second city."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/boston/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [],
+   "title": "HYROX Training in Boston: Gyms &amp; Programs",
+   "description": "Best HYROX training facilities in Boston. Functional fitness gyms, CrossFit boxes, running routes, and training tips for New England athletes."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/chicago/",
+   "status": 200,
+   "seconds": 1.5,
+   "issues": [],
+   "title": "HYROX Training in Chicago: Boxes, Lakefront &amp; Race Prep",
+   "description": "HYROX training in Chicago: West Loop and Lincoln Park boxes, the Lakefront Trail for running, plus the McCormick Place race and winter indoor reality."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/delhi/",
+   "status": 200,
+   "seconds": 0.89,
+   "issues": [],
+   "title": "HYROX Delhi 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Delhi 2026 race guide. July 26-27, Pragati Maidan venue logistics, best CrossFit boxes in Gurugram and South Delhi, running routes, and training tips for India's capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/denver/",
+   "status": 200,
+   "seconds": 1.22,
+   "issues": [],
+   "title": "HYROX Denver 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Denver 2026 race guide. Colorado Convention Center logistics, altitude training advantage, best CrossFit boxes, Cherry Creek Trail running routes, and Mile High training tips."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/doha/",
+   "status": 200,
+   "seconds": 0.25,
+   "issues": [],
+   "title": "HYROX Training in Doha: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Doha. Functional fitness gyms, CrossFit boxes, and training options in Qatar's capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/frankfurt/",
+   "status": 200,
+   "seconds": 1.27,
+   "issues": [],
+   "title": "HYROX Frankfurt 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Frankfurt 2026 race guide. Messe Frankfurt venue logistics, best CrossFit boxes, Main riverside running routes, and local training tips in Germany's financial capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/helsinki/",
+   "status": 200,
+   "seconds": 1.19,
+   "issues": [],
+   "title": "HYROX Training in Helsinki: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Helsinki. Functional fitness gyms, Esplanadi running, and tips for preparing in Finland's capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/hong-kong/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [],
+   "title": "HYROX Training in Hong Kong: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Hong Kong. Functional fitness gyms, trail and urban running routes, and tips for training in the city."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/incheon/",
+   "status": 200,
+   "seconds": 1.09,
+   "issues": [],
+   "title": "HYROX Incheon 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Incheon 2026 race guide. Venue logistics at Songdo ConvensiA, best training gyms, transport tips, accommodation, and running routes in South Korea's Songdo district."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/las-vegas/",
+   "status": 200,
+   "seconds": 1.5,
+   "issues": [],
+   "title": "HYROX Training in Las Vegas: Best Gyms, Classes &amp; Facilities",
+   "description": "Find the best HYROX training facilities in Las Vegas. Desert training, 24/7 gyms, and tips for HYROX preparation in the Entertainment Capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/lisboa/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [],
+   "title": "HYROX Lisbon 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Lisbon 2026 race guide. FIL venue logistics, best training gyms, riverside running routes, transport tips, accommodation, and training in Portugal's capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/malaga/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "HYROX Training in Málaga: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Málaga. Functional fitness gyms, Paseo Marítimo running, and tips for preparing on Spain's Costa del Sol."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/melbourne/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [],
+   "title": "HYROX Training in Melbourne: Boxes, Tan Track &amp; Race Prep",
+   "description": "HYROX training in Melbourne: CrossFit Victoria, Schwartz's and CFM, the Tan Track ritual, plus race prep at Melbourne Convention Centre. Full local guide."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/new-york/",
+   "status": 200,
+   "seconds": 1.25,
+   "issues": [],
+   "title": "HYROX Training in New York: Boxes, Central Park &amp; Pier 76",
+   "description": "HYROX training in NYC: CrossFit boxes across Manhattan and Brooklyn, Central Park and Hudson running, plus the 2026 Pier 76 race — NA's biggest HYROX."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/nice/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "HYROX Nice 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Nice 2026 race guide. Two race weekends -- February and October. Palais Nikaia venue, CrossFit boxes, Promenade des Anglais running, and local training tips."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/philadelphia/",
+   "status": 200,
+   "seconds": 1.25,
+   "issues": [],
+   "title": "HYROX Training in Philadelphia: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Philadelphia. Functional fitness gyms, CrossFit boxes, running routes, and tips for preparing in the City of Brotherly Love."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/riyadh/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "HYROX Training in Riyadh: Best Gyms, Classes &amp; Facilities",
+   "description": "Find the best HYROX training facilities in Riyadh. Saudi Arabia's capital is investing heavily in sports infrastructure, with world-class gyms and a rapidly growing functional fitness scene."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/rotterdam/",
+   "status": 200,
+   "seconds": 1.23,
+   "issues": [],
+   "title": "HYROX Training in Rotterdam: Boxes, Kralingse Plas &amp; Race",
+   "description": "HYROX training in Rotterdam: GYMFIELD, Vondelgym and CrossFit Kralingen boxes, Kralingse Plas running, plus the April race at Rotterdam Ahoy. Practical guide."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/san-diego/",
+   "status": 200,
+   "seconds": 1.31,
+   "issues": [],
+   "title": "HYROX Training in San Diego: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in San Diego. Functional fitness gyms, CrossFit boxes, running routes, and tips for preparing in Southern California."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/san-francisco/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [],
+   "title": "HYROX Training in San Francisco: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in San Francisco. Functional fitness gyms, CrossFit boxes, running routes, and tips for preparing in the Bay Area."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/seoul/",
+   "status": 200,
+   "seconds": 0.66,
+   "issues": [],
+   "title": "HYROX Seoul 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Seoul 2026 race guide. COEX Convention Centre logistics, best CrossFit boxes in Gangnam and Itaewon, Han River Park running routes, and training tips in South Korea's capital."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/shanghai/",
+   "status": 200,
+   "seconds": 1.25,
+   "issues": [],
+   "title": "HYROX Training in Shanghai: Gyms &amp; Programs",
+   "description": "Find the best HYROX training facilities in Shanghai. Functional fitness gyms, CrossFit boxes, running routes, and tips for preparing in China's largest city."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/shenzhen/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "HYROX Shenzhen 2026: Race Guide, Training Gyms &amp; Venue Tips",
+   "description": "Complete HYROX Shenzhen 2026 race guide. August 30-31, Shenzhen World Exhibition Centre venue, best CrossFit boxes, Shenzhen Bay Park running routes, and South China training tips."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/stockholm/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [],
+   "title": "HYROX Training in Stockholm: Best Gyms &amp; Facilities",
+   "description": "Best HYROX training facilities in Stockholm. 2026 World Championship host city with CrossFit boxes and functional fitness gyms."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/tel-aviv/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "HYROX Training in Tel Aviv: Best Gyms, Classes &amp; Facilities",
+   "description": "Find the best HYROX training facilities in Tel Aviv. Israel's fitness capital with a thriving CrossFit scene, year-round outdoor training, and one of the world's most active fitness cultures."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/training/cities/washington-dc/",
+   "status": 200,
+   "seconds": 1.22,
+   "issues": [],
+   "title": "HYROX Training in Washington DC: Gyms &amp; Programs",
+   "description": "Best HYROX training facilities in Washington DC. Functional fitness gyms, CrossFit boxes, running routes, and training tips for the DMV area."
+  },
+  {
+   "url": "https://prommer.net/en/training/hyrox/what-is-hyrox/",
+   "status": 200,
+   "seconds": 0.8,
+   "issues": [],
+   "title": "What Is HYROX? The Fitness Race Explained (2026 Definitive Guide)",
+   "description": "HYROX is a standardized fitness race combining 8km of running with 8 functional workout stations, identical at every event worldwide. Complete guide: format, stations, divisions, history, and how to enter."
+  },
+  {
+   "url": "https://prommer.net/en/training/injuries/running-after-femur-fracture/",
+   "status": 200,
+   "seconds": 0.48,
+   "issues": [],
+   "title": "Running After a Femur Fracture: When, How, What to Expect",
+   "description": "When and how to return to running after a broken femur — walk-run protocol, gait analysis, strength benchmarks, and what to expect from the rebuild."
+  },
+  {
+   "url": "https://prommer.net/en/training/nutrition/glp1/race-day-fueling/",
+   "status": 200,
+   "seconds": 0.64,
+   "issues": [],
+   "title": "Race Day Fueling on GLP-1: Gels &amp; Gastric Emptying",
+   "description": "How GLP-1 changes race day nutrition. Practical guide to gel timing, carb absorption, and fueling strategy for marathons and triathlons on semaglutide."
+  },
+  {
+   "url": "https://prommer.net/en/training/nutrition/glp1/wada-doping-ethics/",
+   "status": 200,
+   "seconds": 1.16,
+   "issues": [],
+   "title": "GLP-1 and WADA: Is Semaglutide Doping?",
+   "description": "Is GLP-1 doping? WADA regulatory status, the ethical debate, and one age-group athlete's transparent take on competitive fairness and integrity."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "Running: Clubs, Routes &amp; Training — by City and by Goal",
+   "description": "Where to run and who to run with. A running hub built from the road: city run-club guides, training that connects to marathon and HYROX, and the calculators to pace it."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/",
+   "status": 200,
+   "seconds": 0.47,
+   "issues": [],
+   "title": "Run Clubs by City: Where to Find a Running Crew",
+   "description": "A growing directory of running clubs by city — meeting points, paces, and weekly schedules. Written by an endurance athlete who trains across Asia and Australia."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/amsterdam/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [],
+   "title": "Run Clubs in Amsterdam: Where to Run and Who With",
+   "description": "Run clubs in Amsterdam — the laid-back Amsterdam Coffee Run, social and LGBTQ+ crews, the Amsterdamse Bos parkrun, and the Vondelpark and Amstel routes."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/boston/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "Run Clubs in Boston: Where to Run and Who With",
+   "description": "Run clubs in Boston — the famously friendly Brighton Bangers, the prestigious B.A.A. club, DJ-led RITUAL, Jamaica Pond parkrun, and the Charles River paths."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/ho-chi-minh-city/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [],
+   "title": "Run Clubs in Ho Chi Minh City: Where to Run and Who With",
+   "description": "Run clubs in Ho Chi Minh City — the Runclub.VN and Founders crews, canal and riverfront routes, and how to run around Saigon’s monsoon."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/melbourne/",
+   "status": 200,
+   "seconds": 0.97,
+   "issues": [],
+   "title": "Run Clubs in Melbourne: Where to Run and Who With",
+   "description": "Run clubs in Melbourne — café-culture crews like RUNVO and Femmi, the marathon-focused NTHSIDE Collective, Saturday parkruns, and the Tan Track."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/shanghai/",
+   "status": 200,
+   "seconds": 0.84,
+   "issues": [],
+   "title": "Run Clubs in Shanghai: Where to Run and Who With",
+   "description": "Run clubs in Shanghai — West Bund crews, Century Park parkrun, riverside long runs along the Bund, and how to time runs around the seasons."
+  },
+  {
+   "url": "https://prommer.net/en/training/running/clubs/tokyo/",
+   "status": 200,
+   "seconds": 0.66,
+   "issues": [],
+   "title": "Run Clubs in Tokyo: Where to Run and Who With",
+   "description": "Run clubs in Tokyo — English-friendly crews around the Imperial Palace loop and Yoyogi Park, the official ONE TOKYO marathon club, and how to run the humid summer."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/",
+   "status": 200,
+   "seconds": 0.67,
+   "issues": [],
+   "title": "Swimrun: Open-Water Swimming Meets Trail Running",
+   "description": "Complete swimrun resource hub — race guides, gear reviews, training plans, and pace calculators for the fastest-growing endurance sport."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-colorado-2026/",
+   "status": 200,
+   "seconds": 1.38,
+   "issues": [],
+   "title": "ÖTILLÖ Colorado 2026: High-Altitude Mountain Swimrun",
+   "description": "ÖTILLÖ Colorado 2026 — race date, distances, course details, and travel guide for the high-altitude swimrun event in Colorado's mountain lakes and alpine trails."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-gothenburg-2026/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "ÖTILLÖ Gothenburg 2026: Swedish West Coast Swimrun",
+   "description": "ÖTILLÖ Gothenburg 2026 — race date, distances, course details, and travel guide for the swimrun event in the Gothenburg archipelago on Sweden's west coast."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-uto-2026/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [],
+   "title": "ÖTILLÖ Utö 2026: Where Swimrun Was Born",
+   "description": "ÖTILLÖ Utö 2026 — race date, distances, course details, and travel guide for the birthplace swimrun event in the Stockholm archipelago, Sweden."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/races/otillo-world-championship-2026/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [],
+   "title": "ÖTILLÖ World Championship 2026: The Ultimate Swimrun Race",
+   "description": "ÖTILLÖ World Championship 2026 — date, course, qualification, and what to expect at the world's most prestigious swimrun race in the Stockholm archipelago."
+  },
+  {
+   "url": "https://prommer.net/en/training/swimrun/training/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "Swimrun Training Plans: Sprint to Ultra Distance",
+   "description": "Swimrun training plans for every distance — 12-week structured programs covering brick sessions, open-water swimming, trail running, and partner training. Includes winter pool preparation."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "Triathlon Distances: Sprint to Ironman — Complete Guide",
+   "description": "Every triathlon distance explained: Super Sprint, Sprint, Olympic, 70.3 Half Ironman, and full Ironman. Interactive comparison with average finish times by skill level and age group."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/challenge-roth-2026/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Challenge Roth 2026: Race Guide, Course &amp; Registration",
+   "description": "Challenge Roth 2026 — July 5 in Bavaria. Full course (3.8/180/42.2 km), Solarer Berg atmosphere, registration, travel, and first-hand training notes."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/challenge-roth-2027/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [],
+   "title": "Challenge Roth 2027: Race Guide, Registration &amp; Course",
+   "description": "Challenge Roth 2027 — Sunday, July 4, 2027 in Bavaria. Course, registration window, and the comeback story after my April 2026 femur fracture."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-european-championship-frankfurt-2026/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [],
+   "title": "IRONMAN European Championship Frankfurt 2026: Guide &amp; Kona",
+   "description": "IRONMAN Frankfurt 2026 — June 28 in Hesse. Full course (3.8/180/42.2 km), Taunus climbing, Römer finish, Kona slots, registration and travel."
+  },
+  {
+   "url": "https://prommer.net/en/training/triathlon/races/ironman-vichy-2026/",
+   "status": 200,
+   "seconds": 0.42,
+   "issues": [],
+   "title": "IRONMAN Vichy 2026: Race Guide, Bike Course &amp; Elegant IRONMAN",
+   "description": "IRONMAN Vichy 2026 — August 23 in central France. Lac d'Allier swim, flat Bourbonnais bike, Allier river marathon. Heat prep and travel guide."
+  },
+  {
+   "url": "https://prommer.net/es/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "Thomas Prommer | Ejecutivo de Tecnología &amp; Atleta Híbrido",
+   "description": "Ejecutivo de tecnología, CTO/CIO fraccional, consultor de estrategia IA. Atleta híbrido en Maratón, Ironman y HYROX."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/",
+   "status": 200,
+   "seconds": 0.3,
+   "issues": [],
+   "title": "Thomas Prommer | Atleta Híbrido - Maratón, Ironman, HYROX",
+   "description": "Gestor de tecnología de día, atleta de resistencia por pasión. Maratonista, triatleta Ironman y competidor HYROX."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/",
+   "status": 200,
+   "seconds": 0.34,
+   "issues": [],
+   "title": "Herramientas &amp; Calculadoras de Entrenamiento",
+   "description": "Herramientas y calculadoras de entrenamiento gratuitas para HYROX, triatlón y deportes de resistencia."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/carrera/pasos-a-distancia/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "Conversor Pasos a Km – calculadora gratuita",
+   "description": "Convierte pasos a km y km a pasos al instante. Introduce tus pasos y obtén el equivalente en metros, kilómetros o millas. Gratis, sin registro."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/fuerza/calculadora-1rm/",
+   "status": 200,
+   "seconds": 0.78,
+   "issues": [],
+   "title": "Calculadora 1RM | Repetición Máxima",
+   "description": "Calcula tu 1RM con las fórmulas Epley, Brzycki y Lombardi."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/fuerza/peso-muerto/",
+   "status": 200,
+   "seconds": 0.33,
+   "issues": [],
+   "title": "Calculadora Peso Muerto | 1RM Peso Muerto",
+   "description": "Calcula tu 1RM en peso muerto."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/fuerza/press-banca/",
+   "status": 200,
+   "seconds": 0.88,
+   "issues": [],
+   "title": "Calculadora Press de Banca | 1RM Press Banca",
+   "description": "Calcula tu 1RM en press de banca."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/general/calorias-caminar/",
+   "status": 200,
+   "seconds": 0.48,
+   "issues": [],
+   "title": "Calculadora Calorías Caminar | Estimador Gratuito",
+   "description": "Calcula cuántas calorías quemas caminando. Estimación basada en peso, duración y ritmo usando valores MET."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/general/calorias-por-distancia/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [],
+   "title": "Calorías quemadas por distancia | Caminar y correr",
+   "description": "Calcula las calorías quemadas por kilómetro o milla caminando y corriendo, según tu peso y ritmo. Incluye el equivalente en grasa corporal."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/calculadoras/nutricion/deficit-calorico/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [],
+   "title": "Calculadora Déficit Calórico | Calorías para Adelgazar",
+   "description": "Calcula tu déficit calórico para perder peso con distribución de macronutrientes."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/consejos/sled-push-consejos/",
+   "status": 200,
+   "seconds": 0.75,
+   "issues": [],
+   "title": "HYROX Sled Push Consejos 2026: Técnica, Peso y Estrategia",
+   "description": "Domina el Sled Push de HYROX con posición corporal correcta, estrategia de pacing y consejos de entrenamiento. Conserva energía mientras mueves los pesos más pesados."
+  },
+  {
+   "url": "https://prommer.net/es/entrenamiento/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 1.14,
+   "issues": [],
+   "title": "HYROX vs CrossFit: Diferencias clave y cual elegir (2026)",
+   "description": "HYROX vs CrossFit comparados: formato, coste, dificultad y riesgo de lesión. Guía clara para elegir la disciplina de fitness que encaja contigo."
+  },
+  {
+   "url": "https://prommer.net/es/training/hyrox/entrenamiento/buenos-aires/",
+   "status": 200,
+   "seconds": 0.61,
+   "issues": [],
+   "title": "HYROX Training en Buenos Aires: Los Mejores Gyms e Instalaciones",
+   "description": "Encuentra las mejores instalaciones de entrenamiento HYROX en Buenos Aires. CrossFit, rutas de carrera y consejos para tu preparacion HYROX en la capital argentina."
+  },
+  {
+   "url": "https://prommer.net/es/training/hyrox/entrenamiento/cancun/",
+   "status": 200,
+   "seconds": 1.06,
+   "issues": [],
+   "title": "HYROX Training en Cancun: Los Mejores Gyms e Instalaciones",
+   "description": "Encuentra las mejores instalaciones de entrenamiento HYROX en Cancun. CrossFit, rutas de carrera y consejos para tu preparacion HYROX en el Caribe mexicano."
+  },
+  {
+   "url": "https://prommer.net/es/training/triathlon/",
+   "status": 200,
+   "seconds": 0.53,
+   "issues": [],
+   "title": "Distancias de Triatlón: del Sprint al Ironman — Guía completa",
+   "description": "Todas las distancias de triatlón explicadas: Super Sprint, Sprint, Olímpica, IRONMAN 70.3 y larga distancia. Comparativa interactiva con tiempos medios por nivel y grupo de edad."
+  },
+  {
+   "url": "https://prommer.net/es/training/triathlon/carreras/ironman-703-barcelona-2026/",
+   "status": 200,
+   "seconds": 0.55,
+   "issues": [],
+   "title": "IRONMAN 70.3 Barcelona 2026: Guía y el mayor medio de Europa",
+   "description": "IRONMAN 70.3 Barcelona 2026 — 4 de octubre en Calella, 50 km al norte de Barcelona. Recorrido rápido (1,9/90/21,1 km), ~3.500 atletas, inscripción y viaje."
+  },
+  {
+   "url": "https://prommer.net/es/training/triathlon/ironman/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "Entrenamiento Ironman: La guía completa del 226 km",
+   "description": "Todo lo que necesitas para tu primer Ironman. Fases de entrenamiento, periodización, nutrición, estrategia de competición y mucho más."
+  },
+  {
+   "url": "https://prommer.net/fi/",
+   "status": 200,
+   "seconds": 0.45,
+   "issues": [],
+   "title": "Thomas Prommer | Teknologiajohtaja &amp; Hybridiurheilija",
+   "description": "Teknologiajohtaja, osa-aikainen CTO/CIO, tekoälystrategian konsultti. Hybridiurheilija maratonilla, Ironmanissa ja HYROXissa."
+  },
+  {
+   "url": "https://prommer.net/fr/",
+   "status": 200,
+   "seconds": 0.61,
+   "issues": [],
+   "title": "Thomas Prommer | Cadre Technologique &amp; Athlète Hybride",
+   "description": "Cadre technologique, CTO/CIO fractionnel, consultant en stratégie IA. Athlète hybride en Marathon, Ironman et HYROX."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/",
+   "status": 200,
+   "seconds": 0.44,
+   "issues": [],
+   "title": "Thomas Prommer | Athlète Hybride - Marathon, Ironman, HYROX",
+   "description": "Manager technologique le jour, athlète d'endurance par passion. Marathonien, triathlète Ironman et compétiteur HYROX."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/",
+   "status": 200,
+   "seconds": 0.48,
+   "issues": [],
+   "title": "Outils &amp; Calculateurs d&#39;Entraînement",
+   "description": "Outils d'entraînement et calculateurs gratuits pour HYROX, triathlon et sports d'endurance."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/calculateur-triathlon/",
+   "status": 200,
+   "seconds": 1.08,
+   "issues": [],
+   "title": "Calculateur Triathlon | Sprint, Olympique, 70.3 &amp; Ironman",
+   "description": "Calculateur triathlon gratuit : estimez vos temps de course du Sprint à l'Ironman avec votre CSS natation, FTP vélo et allure facile course à pied. Avec calculateur d'allure, détail des splits et fourchettes réalistes."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/course/pas-en-distance/",
+   "status": 200,
+   "seconds": 1.03,
+   "issues": [],
+   "title": "Convertisseur Pas en Km – calculateur gratuit",
+   "description": "Convertit vos pas en kilomètres et vos kilomètres en pas instantanément. Entrez votre nombre de pas ou une distance et obtenez l'équivalent. Gratuit."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/cyclisme/calories/",
+   "status": 200,
+   "seconds": 0.53,
+   "issues": [],
+   "title": "Calculateur Calories Vélo | Calories Brûlées Cyclisme",
+   "description": "Calculez les calories brûlées en vélo."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/cyclisme/percentile-ftp/",
+   "status": 200,
+   "seconds": 0.83,
+   "issues": [],
+   "title": "Calculateur FTP Vélo | Percentile et Watts par Kg",
+   "description": "Calculateur FTP vélo gratuit : découvrez votre percentile watts par kg selon votre âge et sexe. Comparez votre puissance au seuil fonctionnel avec les niveaux Coggan et un graphique interactif."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/general/calories-par-distance/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [],
+   "title": "Calories brûlées par distance | Marche &amp; course",
+   "description": "Calculez les calories brûlées par kilomètre ou mile en marchant et en courant, selon votre poids et votre allure. Avec l’équivalent en graisse corporelle."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/musculation/developpe-couche/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "Calculateur Développé Couché | 1RM Bench Press",
+   "description": "Calculez votre 1RM au développé couché."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/calculateurs/natation/calories/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [],
+   "title": "Calculateur Calories Natation | Calories en Nageant",
+   "description": "Calculez les calories brûlées en nageant."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/conseils/sled-push-conseils/",
+   "status": 200,
+   "seconds": 0.69,
+   "issues": [],
+   "title": "HYROX Sled Push Conseils 2026 : Technique, Poids &amp; Stratégie",
+   "description": "Maîtrisez le Sled Push HYROX avec la bonne position du corps, la stratégie de pacing et les exercices d'entraînement. Poussez le traîneau efficacement sur 50m."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses-2026/",
+   "status": 200,
+   "seconds": 0.66,
+   "issues": [],
+   "title": "HYROX Courses 2026 : Calendrier Complet &amp; Inscriptions",
+   "description": "Calendrier complet des courses HYROX 2026 dans le monde entier - France, Europe, USA et Asie-Pacifique avec dates, lieux et inscriptions."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/courses-2026/code-promo/",
+   "status": 200,
+   "seconds": 0.62,
+   "issues": [],
+   "title": "Code Promo HYROX 2026 : Réductions &amp; Bons Plans",
+   "description": "Existe-t-il un code promo HYROX ? Découvrez la vérité sur les codes de réduction HYROX et les meilleures astuces pour économiser sur votre inscription."
+  },
+  {
+   "url": "https://prommer.net/fr/entrainement/hyrox/resultats/",
+   "status": 200,
+   "seconds": 1.22,
+   "issues": [],
+   "title": "HYROX Résultats : trouver votre temps et le classement",
+   "description": "Où consulter les résultats HYROX : plateforme officielle, agrégateur indépendant, et comment retrouver votre temps et votre classement par saison ou ville."
+  },
+  {
+   "url": "https://prommer.net/fr/tech/conseil-ia/",
+   "status": 200,
+   "seconds": 0.8,
+   "issues": [],
+   "title": "AI Conseil en stratégie : ce que je fais et comment ça marche",
+   "description": "Un aperçu de AI strategy consultant vu de l&#38;#x27;intérieur : en quoi consiste réellement le travail, à partir de quand l&#38;#x27;investissement est rentabilisé, comment comparer les prestataires aux cabinets MBB et Big 4, et quelles questions poser avant de signer."
+  },
+  {
+   "url": "https://prommer.net/fr/training/hyrox/entrainement/paris/",
+   "status": 200,
+   "seconds": 0.52,
+   "issues": [],
+   "title": "HYROX Training a Paris : Les Meilleurs Salles &amp; Installations",
+   "description": "Trouvez les meilleures installations d'entrainement HYROX a Paris. CrossFit, parcours de course et conseils pour votre preparation HYROX."
+  },
+  {
+   "url": "https://prommer.net/fr/training/triathlon/courses/challenge-roth-2026/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [],
+   "title": "Challenge Roth 2026 : Guide de course, parcours &amp; inscription",
+   "description": "Challenge Roth 2026 — 5 juillet en Bavière. Parcours complet (3,8/180/42,2 km), ambiance Solarer Berg, inscription, voyage et notes d'entraînement."
+  },
+  {
+   "url": "https://prommer.net/fr/training/triathlon/courses/ironman-vichy-2026/",
+   "status": 200,
+   "seconds": 0.31,
+   "issues": [],
+   "title": "IRONMAN Vichy 2026 : Guide de course &amp; parcours vélo rapide",
+   "description": "IRONMAN Vichy 2026 — 23 août en Auvergne. Nage dans le Lac d'Allier, vélo roulant dans le Bourbonnais, marathon le long de l'Allier. Chaleur et voyage."
+  },
+  {
+   "url": "https://prommer.net/hu/edzes/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [],
+   "title": "Képzési központ",
+   "description": "Hibrid sportolói edzés — HYROX, maraton, Ironman és swimrun."
+  },
+  {
+   "url": "https://prommer.net/id/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Thomas Prommer | Eksekutif Teknologi &amp; Hybrid Athlete",
+   "description": "Eksekutif teknologi dan hybrid athlete. Konsultasi strategi AI, CTO/CIO, dan latihan endurance + Hyrox."
+  },
+  {
+   "url": "https://prommer.net/id/training/hyrox/apa-itu-hyrox/",
+   "status": 200,
+   "seconds": 1.11,
+   "issues": [],
+   "title": "Apa Itu Hyrox? Panduan Lengkap untuk Atlet Indonesia (2026)",
+   "description": "Hyrox adalah race fitness terstandarisasi: 8 km lari plus 8 stasiun fungsional, format identik di seluruh dunia. Penjelasan lengkap format, divisi, kategori, dan cara mulai berlatih untuk atlet Indonesia."
+  },
+  {
+   "url": "https://prommer.net/id/training/hyrox/training/bali/",
+   "status": 200,
+   "seconds": 0.48,
+   "issues": [],
+   "title": "Hyrox Bali 2026: Gym, Rute Lari, Panduan Race Lengkap",
+   "description": "Panduan lengkap Hyrox Bali 2026. Lokasi venue, gym Hyrox di Canggu, Seminyak, dan Ubud, rute lari sepanjang pantai, biaya, dan tips persiapan untuk atlet Bali."
+  },
+  {
+   "url": "https://prommer.net/it/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "Thomas Prommer | Dirigente Tecnologico &amp; Atleta Ibrido",
+   "description": "Dirigente tecnologico, CTO/CIO frazionale, consulente di strategia IA. Atleta ibrido in Maratona, Ironman e HYROX."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/consigli/farmers-carry-consigli/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "HYROX Farmers Carry Consigli 2026: Tecnica, Presa e Strategia",
+   "description": "Padroneggia il Farmers Carry HYROX con tecnica di presa, pacing e consigli per i 200 metri. Conserva la forza della presa e cammina in modo efficiente con i kettlebell."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/consigli/sled-push-consigli/",
+   "status": 200,
+   "seconds": 0.58,
+   "issues": [],
+   "title": "HYROX Sled Push Consigli 2026: Tecnica, Pesi e Strategia",
+   "description": "Padroneggia lo Sled Push HYROX con la posizione corretta del corpo, strategia di pacing e consigli di allenamento. Risparmia energia spostando i pesi più pesanti della gara."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/consigli/wall-balls-consigli/",
+   "status": 200,
+   "seconds": 1.02,
+   "issues": [],
+   "title": "HYROX Wall Balls Consigli 2026: Tecnica, Pacing e Strategia",
+   "description": "Conquista i Wall Balls HYROX con la tecnica corretta, il pacing intelligente e le strategie mentali. Impara a finire forte con 100 ripetizioni dopo 7 stazioni di fatica."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/gare/hyrox-firenze-2026/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [],
+   "title": "HYROX Firenze 2026: Allenamento, Community &amp; Gare più Vicine",
+   "description": "Nessuna gara HYROX confermata a Firenze nel 2026 — ma Bologna è a 35 minuti! Palestre, percorsi di corsa, community HYROX e le gare più accessibili dalla Toscana."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/gare/hyrox-torino-2026/",
+   "status": 200,
+   "seconds": 0.74,
+   "issues": [],
+   "title": "HYROX Torino 2026: Date, Sede, Iscrizioni e Guida Completa",
+   "description": "HYROX Torino 2026 — 30 gennaio al 1 febbraio. La prima gara italiana dell'anno. Piemonte, Mole Antonelliana e un evento HYROX unico. Date, sede, prezzi e consigli pratici."
+  },
+  {
+   "url": "https://prommer.net/it/allenamento/hyrox/risultati/",
+   "status": 200,
+   "seconds": 0.91,
+   "issues": [],
+   "title": "HYROX Risultati: trovare il tuo tempo e la classifica",
+   "description": "Dove consultare i risultati HYROX: piattaforma ufficiale, aggregatore indipendente, e come trovare tempo, split e classifica per stagione o città."
+  },
+  {
+   "url": "https://prommer.net/ja/training/hyrox/cruise/",
+   "status": 200,
+   "seconds": 1.38,
+   "issues": [],
+   "title": "HYROXクルーズ2026：完全ガイド — 料金・プログラム・予約",
+   "description": "世界初HYROXフィットネスクルーズ2026の完全ガイド。日程、トレーニングプログラム、料金、予約方法を詳しく解説。現在EU・英国在住者限定。"
+  },
+  {
+   "url": "https://prommer.net/ja/training/hyrox/toreningu/tokyo/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "HYROX東京トレーニングガイド：おすすめジムとランニングコース",
+   "description": "東京でHYROXトレーニングに最適なジム、ランニングコース、大会準備のための完全ガイド"
+  },
+  {
+   "url": "https://prommer.net/nb/",
+   "status": 200,
+   "seconds": 0.59,
+   "issues": [],
+   "title": "Thomas Prommer | Teknologileder &amp; Hybridatlet",
+   "description": "Teknologileder, fraksjonell CTO/CIO, AI-strategikonsulent. Hybridatlet i Marathon, Ironman og HYROX."
+  },
+  {
+   "url": "https://prommer.net/nl/",
+   "status": 200,
+   "seconds": 1.36,
+   "issues": [],
+   "title": "Thomas Prommer | Technologiebestuurder &amp; Hybride Atleet",
+   "description": "Technologiebestuurder, fractionele CTO/CIO, AI-strategieconsultant. Hybride atleet in Marathon, Ironman en HYROX."
+  },
+  {
+   "url": "https://prommer.net/nl/training/hyrox/training/rotterdam/",
+   "status": 200,
+   "seconds": 0.38,
+   "issues": [],
+   "title": "HYROX Rotterdam 2026: Gyms, Hardlooproutes &amp; Wedstrijdgids",
+   "description": "Complete HYROX Rotterdam 2026 gids. Ahoy wedstrijdlocatie, beste CrossFit boxes, hardlooproutes langs de Maas, sportscholen en tips voor je HYROX voorbereiding in de Maasstad."
+  },
+  {
+   "url": "https://prommer.net/pl/",
+   "status": 200,
+   "seconds": 0.34,
+   "issues": [],
+   "title": "Thomas Prommer | Dyrektor Technologiczny &amp; Hybrydowy Atleta",
+   "description": "Dyrektor technologiczny, frakcyjny CTO/CIO, konsultant strategii AI. Hybrydowy atleta w Maratonie, Ironmanie i HYROX."
+  },
+  {
+   "url": "https://prommer.net/pt/",
+   "status": 200,
+   "seconds": 0.56,
+   "issues": [],
+   "title": "Thomas Prommer | Executivo de Tecnologia &amp; Atleta Híbrido",
+   "description": "Executivo de tecnologia, CTO/CIO fracional, consultor de estratégia de IA. Atleta híbrido em Maratona, Ironman e HYROX."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/",
+   "status": 200,
+   "seconds": 0.39,
+   "issues": [],
+   "title": "Thomas Prommer | Atleta Híbrido - Maratona, Ironman, HYROX",
+   "description": "Gestor de tecnologia de dia, atleta de endurance por paixão. Maratonista, triatleta Ironman e competidor HYROX."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/",
+   "status": 200,
+   "seconds": 0.41,
+   "issues": [],
+   "title": "Ferramentas &amp; Calculadoras de Treino",
+   "description": "Ferramentas e calculadoras de treino gratuitas para HYROX, triathlon e esportes de endurance."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/calculadora-hyrox/",
+   "status": 200,
+   "seconds": 0.73,
+   "issues": [],
+   "title": "Calculadora HYROX | Splits de corrida &amp; Tempos de estações",
+   "description": "Calculadora HYROX gratuita. Calcule seus splits de corrida por quilômetro e tempos alvo por estação com base no tempo objetivo, divisão e perfil."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/forca/calculadora-ffmi/",
+   "status": 200,
+   "seconds": 1.25,
+   "issues": [],
+   "title": "Calculadora FFMI | Índice de Massa Livre de Gordura",
+   "description": "Calcule seu FFMI. Avalie seu desenvolvimento muscular relativo à altura."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/geral/calorias-por-distancia/",
+   "status": 200,
+   "seconds": 1.05,
+   "issues": [],
+   "title": "Calorias queimadas por distância | Caminhar e correr",
+   "description": "Calcule as calorias queimadas por quilômetro ou milha caminhando e correndo, conforme seu peso e ritmo. Inclui o equivalente em gordura corporal."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/calculadoras/zonas-treinamento/",
+   "status": 200,
+   "seconds": 0.61,
+   "issues": [],
+   "title": "Zonas de Treino | Pace, Frequência Cardíaca &amp; Potência",
+   "description": "Entenda as zonas de treino para corrida, ciclismo e triathlon. Calcule suas zonas de pace, frequência cardíaca e potência."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/corridas-2026/brasil/",
+   "status": 200,
+   "seconds": 0.86,
+   "issues": [],
+   "title": "HYROX Brasil 2026: Todas as Corridas, Datas e Inscrição",
+   "description": "Todas as corridas HYROX no Brasil 2026 — São Paulo, Rio de Janeiro e Fortaleza. Datas, locais, preços de inscrição e dicas para sua participação."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/dicas/farmers-carry-dicas/",
+   "status": 200,
+   "seconds": 1.34,
+   "issues": [],
+   "title": "Dicas HYROX Farmers Carry 2026: Tecnica de Pegada e Ritmo",
+   "description": "Domine o Farmers Carry no HYROX com tecnica de pegada correta, ritmo de caminhada e estrategia de pausas. Carregue kettlebells pesados por 200m sem perder a pegada."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/dicas/rowing-dicas/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [],
+   "title": "Dicas HYROX Remo 2026: Tecnica, Ritmo e Split Times para 1000m",
+   "description": "Domine os 1000m de remo no HYROX com tecnica correta, otimizacao de frequencia de remadas e estrategia de ritmo. Mantenha a potencia apos 5 estacoes de fadiga."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/dicas/wall-balls-dicas/",
+   "status": 200,
+   "seconds": 1.0,
+   "issues": [],
+   "title": "Dicas HYROX Wall Balls 2026: Tecnica, Ritmo e Estrategia",
+   "description": "Conquiste os Wall Balls do HYROX com tecnica correta, ritmo inteligente e estrategias mentais. Aprenda a terminar forte com 100 reps apos 7 estacoes de fadiga."
+  },
+  {
+   "url": "https://prommer.net/pt/treinamento/hyrox/hyrox-vs-crossfit/",
+   "status": 200,
+   "seconds": 0.95,
+   "issues": [],
+   "title": "HYROX vs CrossFit: Qual e o melhor para voce? (Comparacao 2026)",
+   "description": "HYROX vs CrossFit comparados: formato, custo, dificuldade e risco de lesão. Análise clara para escolher a competição de fitness certa para você."
+  },
+  {
+   "url": "https://prommer.net/sv/",
+   "status": 200,
+   "seconds": 0.3,
+   "issues": [],
+   "title": "Thomas Prommer | Teknikchef &amp; Hybridatlet",
+   "description": "Teknikchef, fraktionerad CTO/CIO, AI-strategikonsult. Hybridatlet i Marathon, Ironman och HYROX."
+  }
+ ]
+}
